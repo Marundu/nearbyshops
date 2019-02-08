@@ -1,0 +1,8446 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.5 2ca3f387",
+  "osm3s": {
+    "timestamp_osm_base": "2019-01-31T14:27:02Z",
+    "timestamp_areas_base": "2019-01-31T13:28:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 258015861,
+      "lat": 51.527726,
+      "lon": -0.1023445,
+      "tags": {
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 269198265,
+      "lat": 51.3629891,
+      "lon": -0.1737178,
+      "tags": {
+        "name": "Croydon Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 293741407,
+      "lat": 51.5336166,
+      "lon": -0.1710545,
+      "tags": {
+        "name": "Oxfam Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 338505246,
+      "lat": 51.5182743,
+      "lon": -0.1148883,
+      "tags": {
+        "name": "Blackwells Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 338575315,
+      "lat": 51.5151874,
+      "lon": -0.1128057,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Lincoln’s Inn Archway",
+        "addr:postcode": "WC2A 2JD",
+        "addr:street": "Carey Street",
+        "fax": "+44 20 7430 0897",
+        "name": "Wildy & Sons Ltd",
+        "note": "either side of archway entrance",
+        "opening_hours": "Mo-Fr 08:45-18:00",
+        "phone": "+44 20 7242 5778",
+        "shop": "books",
+        "website": "http://www.wildy.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387121708,
+      "lat": 51.5089668,
+      "lon": -0.1954318,
+      "tags": {
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 391484589,
+      "lat": 51.5056037,
+      "lon": -0.0833866,
+      "tags": {
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 401529125,
+      "lat": 51.5125448,
+      "lon": -0.1285003,
+      "tags": {
+        "books": "antiquarian",
+        "name": "Quinto Bookshop",
+        "shop": "books",
+        "website": "http://quintobookshop.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 401529127,
+      "lat": 51.5127283,
+      "lon": -0.1286031,
+      "tags": {
+        "name": "Koenig Books",
+        "phone": "+44 20 7240 8190",
+        "postal_code": "WC2H 0BF",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 401529132,
+      "lat": 51.5121161,
+      "lon": -0.1282985,
+      "tags": {
+        "books": "antiquarian",
+        "name": "Any amount of books",
+        "shop": "books",
+        "website": "http://www.anyamountofbooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 401529133,
+      "lat": 51.5122231,
+      "lon": -0.128347,
+      "tags": {
+        "addr:housenumber": "58-60",
+        "books": "antiquarian",
+        "name": "Henry Pordes Books",
+        "payment:american_express": "yes",
+        "shop": "books",
+        "twitter": "HenryPordesBook",
+        "website": "http://www.henrypordesbooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430634393,
+      "lat": 51.4905242,
+      "lon": -0.1442843,
+      "tags": {
+        "name": "Classic Bindings",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 441199819,
+      "lat": 51.4616859,
+      "lon": -0.1676618,
+      "tags": {
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 443404417,
+      "lat": 51.4912585,
+      "lon": -0.1594264,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "12",
+        "addr:postcode": "SW3 4",
+        "addr:street": "Duke of York Square",
+        "name": "Taschen",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 450252626,
+      "lat": 51.4889233,
+      "lon": -0.16558,
+      "tags": {
+        "addr:housename": "Waterstones",
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 456065303,
+      "lat": 51.4072101,
+      "lon": -0.0279405,
+      "tags": {
+        "name": "WH Smith",
+        "operator": "WH Smith",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 456389171,
+      "lat": 51.4095143,
+      "lon": -0.0253728,
+      "tags": {
+        "name": "Beckenham Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 470352810,
+      "lat": 51.4906794,
+      "lon": -0.1003589,
+      "tags": {
+        "addr:housenumber": "56a",
+        "addr:postcode": "SE17 3AE",
+        "addr:street": "Crampton Street",
+        "name": "56a Infoshop",
+        "shop": "books",
+        "url": "www.56a.org.uk",
+        "website": "www.56a.org.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 546682955,
+      "lat": 51.5295906,
+      "lon": -0.1105822,
+      "tags": {
+        "name": "Amwell Book Co",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 559522453,
+      "lat": 51.507513,
+      "lon": -0.1268722,
+      "tags": {
+        "addr:housename": "The Grand Building",
+        "addr:housenumber": "1-5",
+        "addr:postcode": "WC2N 5EJ",
+        "addr:street": "Strand",
+        "name": "Waterstones",
+        "postal_code": "WC2N 5EJ",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 566791691,
+      "lat": 51.536456,
+      "lon": -0.102458,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:street": "Islington Green",
+        "name": "Waterstones",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 623269934,
+      "lat": 51.5076634,
+      "lon": -0.1019066,
+      "tags": {
+        "addr:housenumber": "43",
+        "addr:street": "Holland street",
+        "name": "Art Books",
+        "phone": "+44 2072610111",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 623353910,
+      "lat": 51.5084753,
+      "lon": -0.1380491,
+      "tags": {
+        "addr:housenumber": "187",
+        "addr:street": "Piccadilly",
+        "name": "Hatchards",
+        "shop": "books",
+        "wikidata": "Q5681055"
+      }
+    },
+    {
+      "type": "node",
+      "id": 624352891,
+      "lat": 51.512403,
+      "lon": -0.1339842,
+      "tags": {
+        "addr:housenumber": "12",
+        "addr:postcode": "W1F 0ED",
+        "addr:street": "Brewer Street",
+        "name": "Soho's Original Book Shop",
+        "shop": "books",
+        "website": "sohobooks.co.uk",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 660899266,
+      "lat": 51.5611922,
+      "lon": -0.0739747,
+      "tags": {
+        "name": "Bargain Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 660899267,
+      "lat": 51.5613075,
+      "lon": -0.0739471,
+      "tags": {
+        "name": "Stoke Newington Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 677225990,
+      "lat": 51.5604805,
+      "lon": -0.3580841,
+      "tags": {
+        "addr:housenumber": "395A",
+        "addr:postcode": "HA2 8JB",
+        "addr:street": "Northolt Road",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692296631,
+      "lat": 51.5107665,
+      "lon": -0.1280074,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "22",
+        "addr:street": "Cecil Court",
+        "name": "Natalie Galustian Rare Books",
+        "payment:american_express": "yes",
+        "shop": "books",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692296644,
+      "lat": 51.5107707,
+      "lon": -0.127795,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "16",
+        "addr:street": "Cecil Court",
+        "name": "Marchpane",
+        "phone": "+44 20 7836 8661",
+        "postal_code": "WC2N 4HE",
+        "shop": "books",
+        "website": "http://www.marchpane.com/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692296646,
+      "lat": 51.51077,
+      "lon": -0.1278701,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "18",
+        "addr:street": "Cecil Court",
+        "name": "Peter Ellis",
+        "payment:american_express": "yes",
+        "shop": "books",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692296652,
+      "lat": 51.5106684,
+      "lon": -0.1279044,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "25",
+        "addr:street": "Cecil Court",
+        "name": "Goldsboro Books",
+        "payment:american_express": "yes",
+        "phone": "+44 20 7497 9230",
+        "shop": "books",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692296656,
+      "lat": 51.5107712,
+      "lon": -0.12745,
+      "tags": {
+        "addr:housenumber": "6",
+        "addr:street": "Cecil Court",
+        "name": "Tenderbooks",
+        "shop": "books",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692296662,
+      "lat": 51.5106767,
+      "lon": -0.1275341,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "11",
+        "addr:street": "Cecil Court",
+        "name": "Pleasures Of Past Times",
+        "shop": "books",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692296664,
+      "lat": 51.5106735,
+      "lon": -0.127608,
+      "tags": {
+        "addr:housenumber": "13",
+        "addr:street": "Cecil Court",
+        "name": "London Medal Company",
+        "postal_code": "WC2N 4AN",
+        "shop": "books",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692296669,
+      "lat": 51.51067,
+      "lon": -0.1278384,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "19",
+        "addr:street": "Cecil Court",
+        "name": "Watkins Books",
+        "payment:american_express": "yes",
+        "phone": "+44 20 7836 2182",
+        "postal_code": "WC2N 4EZ",
+        "shop": "books",
+        "website": "http://www.watkinsbooks.com/",
+        "wheelchair": "limited",
+        "wikidata": "Q7974694",
+        "wikipedia": "en:Watkins Books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 692296679,
+      "lat": 51.5106796,
+      "lon": -0.1274,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "7",
+        "addr:street": "Cecil Court",
+        "name": "Bryars & Bryars",
+        "postal_code": "WC2N 4EZ",
+        "shop": "books",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 694696901,
+      "lat": 51.4965603,
+      "lon": -0.08258,
+      "tags": {
+        "books": "christian",
+        "name": "The Rock Bookstores",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 703361768,
+      "lat": 51.51763,
+      "lon": -0.117537,
+      "tags": {
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 710909996,
+      "lat": 51.5265799,
+      "lon": -0.1322634,
+      "tags": {
+        "name": "Quaker Bookshop",
+        "shop": "books",
+        "source": "local_knowledge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 862310044,
+      "lat": 51.4946852,
+      "lon": -0.1565357,
+      "tags": {
+        "addr:housenumber": "70",
+        "addr:postcode": "SW1X 9AH",
+        "addr:street": "Cadogan Place",
+        "name": "Book Haus",
+        "shop": "books",
+        "website": "http://www.hauspublishing.com/news/51"
+      }
+    },
+    {
+      "type": "node",
+      "id": 874743721,
+      "lat": 51.5265218,
+      "lon": -0.1249239,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "13",
+        "addr:postcode": "WC1H 9EW",
+        "addr:street": "Leigh Street",
+        "name": "Collinge & Clark",
+        "phone": "+44 20 7387 7105",
+        "shop": "books",
+        "website": "http://www.collingeandclark.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 885340635,
+      "lat": 51.6521051,
+      "lon": -0.083732,
+      "tags": {
+        "name": "Waterstones",
+        "shop": "books",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 931631873,
+      "lat": 51.5395238,
+      "lon": -0.1442006,
+      "tags": {
+        "addr:housenumber": "18",
+        "addr:street": "Inverness Road",
+        "books": "comic",
+        "name": "Mega City Comics",
+        "shop": "books",
+        "website": "http://www.megacitycomics.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 931652848,
+      "lat": 51.5440369,
+      "lon": -0.1471663,
+      "tags": {
+        "addr:housenumber": "38a",
+        "name": "Walden Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 931673392,
+      "lat": 51.5407824,
+      "lon": -0.1573755,
+      "tags": {
+        "name": "Primrose Hill Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 970356647,
+      "lat": 51.5708091,
+      "lon": -0.1485527,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "47",
+        "addr:street": "Highgate High Street",
+        "name": "Oxfam",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 970857108,
+      "lat": 51.5135665,
+      "lon": -0.1285705,
+      "tags": {
+        "addr:street": "Great Russell Street",
+        "name": "Book Warehouse",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1128910034,
+      "lat": 51.3622119,
+      "lon": -0.1928615,
+      "tags": {
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1129190069,
+      "lat": 51.3633943,
+      "lon": -0.1930538,
+      "tags": {
+        "name": "WH Smith",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1132744279,
+      "lat": 51.3585039,
+      "lon": -0.1497908,
+      "tags": {
+        "addr:city": "Wallington",
+        "addr:housenumber": "92",
+        "addr:postcode": "SM6 0NG",
+        "addr:street": "Woodcote Road",
+        "name": "WH Smith",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1309411242,
+      "lat": 51.501441,
+      "lon": -0.1110173,
+      "tags": {
+        "addr:housenumber": "45—46",
+        "addr:street": "Lower Marsh",
+        "name": "Ian Allan Book and Model Shop",
+        "shop": "books",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1360472222,
+      "lat": 51.4931809,
+      "lon": -0.1815069,
+      "tags": {
+        "name": "The Slightly Foxed Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1459143168,
+      "lat": 51.5437758,
+      "lon": -0.0084341,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Westfield Stratford City",
+        "addr:street": "Montfichet Road",
+        "branch": "Stratford",
+        "contact:email": "stratford@foyles.co.uk",
+        "contact:phone": "+44 20 3206 2671",
+        "contact:website": "http://foyles.co.uk/Public/Stores/Detail.aspx?storeid=1016",
+        "layer": "-1",
+        "level": "-1",
+        "name": "Foyles",
+        "opening_hours": "Mo-Fr 10:00-21:00, Sa 09:00-21:00, Su 12:00-18:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1543431001,
+      "lat": 51.3921241,
+      "lon": 0.112453,
+      "tags": {
+        "addr:postcode": "BR5 3RP",
+        "name": "Waterstones",
+        "notes": "unit 16",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1594555588,
+      "lat": 51.5457125,
+      "lon": -0.1621507,
+      "tags": {
+        "addr:housenumber": "41",
+        "addr:postcode": "NW3 4YD",
+        "addr:street": "England's Lane",
+        "name": "England's Lane Books",
+        "shop": "books",
+        "website": "http://englandslanebooks.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1656307684,
+      "lat": 51.4743899,
+      "lon": -0.035863,
+      "tags": {
+        "name": "Blackwell's Bookshop",
+        "shop": "books",
+        "website": "www.blackwell.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1694591608,
+      "lat": 51.5255972,
+      "lon": -0.0874673,
+      "tags": {
+        "name": "camden lock books.com",
+        "shop": "books",
+        "source": "photograph",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1731894189,
+      "lat": 51.5216965,
+      "lon": -0.128737,
+      "tags": {
+        "name": "SOAS Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1735309245,
+      "lat": 51.5042469,
+      "lon": 0.0028751,
+      "tags": {
+        "name": "Brunel´s Newsagent",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1852971279,
+      "lat": 51.4004658,
+      "lon": -0.2555661,
+      "tags": {
+        "name": "WHSmith",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1893971977,
+      "lat": 51.5723087,
+      "lon": -0.0732379,
+      "tags": {
+        "addr:housename": "Lubavitch House",
+        "addr:street": "Stamford Hill",
+        "name": "Lubavitch Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1933402808,
+      "lat": 51.4637816,
+      "lon": -0.1663425,
+      "tags": {
+        "name": "The Corner Stone",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1973254562,
+      "lat": 51.5075232,
+      "lon": 0.0652032,
+      "tags": {
+        "name": "John's Smiths Book shop and Students' Union Shop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1984126509,
+      "lat": 51.5923666,
+      "lon": -0.1065817,
+      "tags": {
+        "addr:housename": "The Big Green Bookshop",
+        "addr:housenumber": "Unit 1",
+        "addr:postcode": "N22 6BG",
+        "addr:street": "Brampton Park Road",
+        "name": "Big Green Bookshop",
+        "shop": "books",
+        "website": "http://www.biggreenbookshop.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2096457001,
+      "lat": 51.4773388,
+      "lon": -0.2854674,
+      "tags": {
+        "name": "The Kew Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2290218286,
+      "lat": 51.5779595,
+      "lon": 0.0264761,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "1",
+        "addr:postcode": "E11 2AG",
+        "addr:street": "Clock House Parade, High Street",
+        "fhrs:id": "765708",
+        "fhrs:local_authority_id": "181016",
+        "name": "Oxfam Book Shop",
+        "shop": "books",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2295801049,
+      "lat": 51.4807063,
+      "lon": -0.4436852,
+      "tags": {
+        "addr:housename": "Heathrow Academy",
+        "addr:postcode": "TW6 2AP",
+        "addr:street": "Newall Road",
+        "designation": "Book & model shop",
+        "name": "Aviation Retail Direct",
+        "shop": "books",
+        "website": "http://www.aviationretaildirect.co.uk/skelapp/w3store/store_about.asp"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2316437970,
+      "lat": 51.5421137,
+      "lon": -0.3406961,
+      "tags": {
+        "name": "WHSmith",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2363468088,
+      "lat": 51.508386,
+      "lon": -0.1298423,
+      "tags": {
+        "name": "National Gallery Bookshop",
+        "note": "Main gallery shop. For secondary shops see main building, incl art materials etc near Getty entrance",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2376830549,
+      "lat": 51.5049692,
+      "lon": -0.102061,
+      "tags": {
+        "addr:housenumber": "39",
+        "addr:postcode": "SE1 0UH",
+        "addr:street": "Bear Lane",
+        "name": "Woolfson & Tay",
+        "shop": "books",
+        "source": "survey",
+        "website": "http://www.woolfsonandtay.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2407075724,
+      "lat": 51.5111994,
+      "lon": -0.1258464,
+      "tags": {
+        "name": "Waterstones",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2420135825,
+      "lat": 51.426611,
+      "lon": -0.055405,
+      "tags": {
+        "name": "Kirkdale Bookshop",
+        "shop": "books",
+        "website": "http://www.kirkdalebookshop.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2536878162,
+      "lat": 51.517962,
+      "lon": -0.12657,
+      "tags": {
+        "name": "Souvenir Press",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2536882644,
+      "lat": 51.51805,
+      "lon": -0.126262,
+      "tags": {
+        "books": "antiquarian",
+        "name": "Jarndyce",
+        "shop": "books",
+        "website": "https://www.jarndyce.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2558519698,
+      "lat": 51.5269005,
+      "lon": -0.1283108,
+      "tags": {
+        "addr:housenumber": "45",
+        "addr:street": "Burton Street",
+        "name": "Mahgreb Bookshop",
+        "shop": "books",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2567672762,
+      "lat": 51.4532373,
+      "lon": -0.1029052,
+      "tags": {
+        "name": "Herne Hill Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2609621314,
+      "lat": 51.5812803,
+      "lon": -0.335337,
+      "tags": {
+        "name": "The Works",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2609621326,
+      "lat": 51.5815411,
+      "lon": -0.3364779,
+      "tags": {
+        "addr:housenumber": "60; 62",
+        "addr:street": "Saint Ann's Road",
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2617232246,
+      "lat": 51.529458,
+      "lon": -0.1280115,
+      "tags": {
+        "name": "British Library Shop",
+        "shop": "books",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2617831390,
+      "lat": 51.5258523,
+      "lon": -0.134145,
+      "tags": {
+        "name": "Wellcome Book Shop",
+        "shop": "books",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2627107103,
+      "lat": 51.3624822,
+      "lon": -0.1929148,
+      "tags": {
+        "name": "The Works",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2707252360,
+      "lat": 51.4875245,
+      "lon": -0.1115387,
+      "tags": {
+        "addr:housenumber": "306-308",
+        "addr:street": "Kennington Road",
+        "alt_name": "Vanilla Black Coffee & Books",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Vanilla Black",
+        "shop": "books",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2779266672,
+      "lat": 51.5163759,
+      "lon": -0.1759743,
+      "tags": {
+        "addr:housename": "Paddington Station",
+        "addr:postcode": "W2 1RH",
+        "fhrs:id": "411840",
+        "level": "-1",
+        "name": "WH Smith",
+        "shop": "books",
+        "source": "survey",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2905813001,
+      "lat": 51.5107092,
+      "lon": -0.134749,
+      "tags": {
+        "addr:housenumber": "24-25",
+        "addr:street": "Denman Street",
+        "name": "JP Books",
+        "opening_hours": "Mo-Sa 10:30-20:00; Su 11:00-18:00",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2951074705,
+      "lat": 51.5250326,
+      "lon": -0.1245362,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "66",
+        "addr:postcode": "WC1N 1AE",
+        "addr:street": "The Brunswick",
+        "name": "Waitrose",
+        "opening_hours": "Mo-Sa 10:30-20:00; Su 10:30-18:00",
+        "operator": "Waitrose & Partners",
+        "phone": "+44 20 7278 8760",
+        "shop": "books",
+        "website": "http://www.skoob.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3017577696,
+      "lat": 51.5110453,
+      "lon": -0.4727261,
+      "tags": {
+        "name": "AJAviation",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3114920166,
+      "lat": 51.4901338,
+      "lon": -0.3522997,
+      "tags": {
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3140975564,
+      "lat": 51.5143572,
+      "lon": -0.1167452,
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "WC2A 2AB",
+        "addr:street": "Clare Market",
+        "books": "academic",
+        "contact:phone": "+44 20 74055531",
+        "description": "Also non-academic books",
+        "name": "Economists' Bookshop",
+        "opening_hours": "Mo-Fr 10:00-18:30; Sa 12:00-18:00",
+        "operator": "Waterstone's",
+        "shop": "books",
+        "source": "http://www.lse.ac.uk/intranet/LSEServices/waterstones/Home.aspx"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3196182587,
+      "lat": 51.5115576,
+      "lon": -0.3048615,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "The Green",
+        "books": "secondhand",
+        "name": "Oxfam",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3206086373,
+      "lat": 51.5119535,
+      "lon": -0.1276345,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:postcode": "WC2H 7JA",
+        "addr:street": "Great Newport Street",
+        "books": "comic",
+        "name": "Orbital Comics",
+        "opening_hours": "Mo,Tu,Fr,Sa 10:30-19:00; We,Th 10:30-19:30; Su 11:30-17:00",
+        "shop": "books",
+        "website": "http://www.orbitalcomics.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3260042836,
+      "lat": 51.5124976,
+      "lon": -0.3031977,
+      "tags": {
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3357928871,
+      "lat": 51.4962159,
+      "lon": -0.1702068,
+      "tags": {
+        "books": "antiques",
+        "name": "Robert Frew Ltd",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3357929242,
+      "lat": 51.5139361,
+      "lon": -0.1520451,
+      "tags": {
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3390024893,
+      "lat": 51.4679122,
+      "lon": -0.2101647,
+      "tags": {
+        "addr:housenumber": "91",
+        "addr:postcode": "SW6 3JS",
+        "addr:street": "Fulham High Street",
+        "email": "hurlinghambooks@gmail.com",
+        "name": "Hurlingham books",
+        "name:en": "Hurlingham books",
+        "operator": "Ray Cole",
+        "phone": "+44 20 7736 4363",
+        "shop": "books",
+        "website": "http://hurlinghambooks.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3547298145,
+      "lat": 51.5156704,
+      "lon": -0.1902707,
+      "tags": {
+        "name": "Al-Saqi Books",
+        "payment:american_express": "yes",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3637935942,
+      "lat": 51.5107708,
+      "lon": -0.1277113,
+      "tags": {
+        "name": "Alice Through The Looking Glass",
+        "payment:american_express": "yes",
+        "shop": "books",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3677977915,
+      "lat": 51.5361965,
+      "lon": -0.0618289,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "20-22",
+        "addr:postcode": "E8 4QJ",
+        "addr:street": "Broadway Market",
+        "name": "Artwords",
+        "opening_hours": "Mo-Fr 10:30-20:00; Sa-Su 10:00-18:00",
+        "phone": "+44 207 923 7507",
+        "shop": "books",
+        "website": "http://www.artwords.co.uk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3714045138,
+      "lat": 51.4964667,
+      "lon": -0.140247,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "25",
+        "addr:postcode": "SW1P 1LT",
+        "addr:street": "Ashley Place",
+        "name": "Catholic Truth Society",
+        "opening_hours": "Mo-Fr 09:30-17:30; Sa 10:00-17:00",
+        "payment:american_express": "yes",
+        "phone": "+44 20 7834 1363",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3714045140,
+      "lat": 51.4958806,
+      "lon": -0.140183,
+      "tags": {
+        "name": "St Pauls Books and Gifts",
+        "opening_hours": "Mo-Sa 09:30-18:00",
+        "shop": "books",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3714081158,
+      "lat": 51.5011802,
+      "lon": -0.1122432,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "104",
+        "addr:street": "Lower Marsh",
+        "name": "The Book Warehouse",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3761643216,
+      "lat": 51.5619517,
+      "lon": -0.0809206,
+      "tags": {
+        "name": "Church Street Bookshop",
+        "shop": "books",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3881228476,
+      "lat": 51.479477,
+      "lon": -0.0101515,
+      "tags": {
+        "name": "Greenwich Book Time",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4170525430,
+      "lat": 51.5070772,
+      "lon": -0.1376551,
+      "tags": {
+        "addr:housenumber": "43a",
+        "addr:street": "Duke Street St James's",
+        "alt_name": "Sims Reed Rare Books",
+        "name": "Sims Reed",
+        "phone": "+44 20 7930 5566",
+        "shop": "books",
+        "website": "http://www.simsreed.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4170525432,
+      "lat": 51.5072258,
+      "lon": -0.1377973,
+      "tags": {
+        "addr:housenumber": "42",
+        "addr:street": "Duke Street St James's",
+        "name": "Thomas Heneage Art Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4205182705,
+      "lat": 51.5456953,
+      "lon": -0.4801305,
+      "tags": {
+        "name": "Barnard's Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4205182735,
+      "lat": 51.5456204,
+      "lon": -0.4783692,
+      "tags": {
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4232482003,
+      "lat": 51.4927643,
+      "lon": -0.2255059,
+      "tags": {
+        "name": "Ryman",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4321252186,
+      "lat": 51.5411672,
+      "lon": -0.1466697,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "70",
+        "addr:postcode": "NW1 8AF",
+        "addr:street": "Camden Lock Place",
+        "level": "0",
+        "name": "Black Gull Books",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4364696258,
+      "lat": 51.5301275,
+      "lon": -0.1256424,
+      "tags": {
+        "building:level": "0",
+        "level": "0",
+        "name": "Hatchards",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4391522416,
+      "lat": 51.4740696,
+      "lon": -0.1524215,
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "Unit 30 DRCA Business Centre",
+        "addr:postcode": "SW11 5HD",
+        "addr:street": "Charlotte Despard Avenue",
+        "name": "CubaDirecto",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+44 207 4987090",
+        "shop": "books",
+        "website": "http://www.cubadirecto.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4440565050,
+      "lat": 51.5414122,
+      "lon": -0.1459968,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "Unit L3",
+        "addr:postcode": "NW1 8AL",
+        "addr:street": "Camden Lock Place",
+        "level": "0",
+        "name": "Books Iconica",
+        "shop": "books",
+        "website": "http://booksiconica.co.uk/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4558416245,
+      "lat": 51.531679,
+      "lon": -0.1118935,
+      "tags": {
+        "addr:housenumber": "110",
+        "addr:postcode": "N1 9JB",
+        "addr:street": "Pentonville Road",
+        "name": "Amana Trust Bookshop",
+        "religion": "christian",
+        "shop": "books",
+        "source": "survey",
+        "source:addr": "interpolation"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4592956389,
+      "lat": 51.5091631,
+      "lon": -0.1377632,
+      "tags": {
+        "addr:housenumber": "3-5",
+        "addr:street": "Sackville Street",
+        "name": "Sotheran's",
+        "phone": "+44 20 7439 6151",
+        "shop": "books",
+        "website": "https://www.sotherans.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4596599114,
+      "lat": 51.454516,
+      "lon": -0.193283,
+      "tags": {
+        "addr:city": "Wandsworth",
+        "addr:street": "Southside Shopping Centre",
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4670735389,
+      "lat": 51.5184205,
+      "lon": -0.1556243,
+      "tags": {
+        "addr:housenumber": "44",
+        "addr:postcode": "W1U 7RT",
+        "addr:street": "Baker Street",
+        "name": "Chess and Bridge",
+        "name:en": "Chess and Bridge",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4693825240,
+      "lat": 51.4831622,
+      "lon": -0.3481699,
+      "tags": {
+        "addr:city": "Isleworth",
+        "addr:housenumber": "168A",
+        "addr:street": "Thornbury Road",
+        "entrance": "yes",
+        "name": "Osterley Bookshop",
+        "shop": "books",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4745133001,
+      "lat": 51.528357,
+      "lon": -0.1330631,
+      "tags": {
+        "level": "0",
+        "name": "WH Smith Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4772684221,
+      "lat": 51.5203335,
+      "lon": -0.0705475,
+      "tags": {
+        "addr:housenumber": "65",
+        "addr:postcode": "E1 5JP",
+        "addr:street": "Hanbury Street",
+        "email": "hello@libreria.io",
+        "name": "Librería",
+        "name:en": "Librería",
+        "opening_hours": "Tu-We 11:00-18:00; Th-Sa 11:00-21:00; Su 12:00-18:00",
+        "shop": "books",
+        "website": "http://libreria.io/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4818149158,
+      "lat": 51.4510561,
+      "lon": -0.0851302,
+      "tags": {
+        "addr:city": "Dulwich",
+        "addr:street": "Calton Avenue",
+        "name": "Village Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4828058222,
+      "lat": 51.5207185,
+      "lon": -0.1167646,
+      "tags": {
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4856528615,
+      "lat": 51.4554387,
+      "lon": -0.0365449,
+      "tags": {
+        "name": "Crofton Bookshop (Library)",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4880321025,
+      "lat": 51.5157567,
+      "lon": -0.2054935,
+      "tags": {
+        "name": "Notting Hill Bookshop",
+        "name:en": "Notting Hill Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4880333723,
+      "lat": 51.5157772,
+      "lon": -0.2054965,
+      "tags": {
+        "name": "Notting Hill Bookshop",
+        "name:en": "Notting Hill Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4880465178,
+      "lat": 51.5072527,
+      "lon": -0.0999278,
+      "tags": {
+        "operator": "Tate Modern",
+        "shop": "books",
+        "wheelchair": "yes",
+        "wheelchair:description": "Step-free from Turbine Hall. Level 0 has ramp from street and lift to all levels."
+      }
+    },
+    {
+      "type": "node",
+      "id": 4903159621,
+      "lat": 51.491374,
+      "lon": -0.1609355,
+      "tags": {
+        "addr:housenumber": "10-12",
+        "addr:postcode": "SW3 2SR",
+        "addr:street": "Blacklands Terrace",
+        "name": "John Sandoe Ltd",
+        "opening_hours": "Mo-Sa 09:30-18:30; Su 11:00-17:00",
+        "shop": "books",
+        "website": "http://www.johnsandoe.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4903159622,
+      "lat": 51.515115,
+      "lon": -0.2057156,
+      "tags": {
+        "addr:housenumber": "21",
+        "addr:postcode": "W11 2EU",
+        "addr:street": "Kensington Park Road",
+        "name": "Lutyens & Rubinstein",
+        "opening_hours": "Mo 10:00-18:00; Tu-Fr 10:00-18:30; Sa 10:00-18:00; Su 11:00-17:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4933573676,
+      "lat": 51.507653,
+      "lon": -0.1369038,
+      "tags": {
+        "name": "Benjamin Spademan",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4945113056,
+      "lat": 51.5065212,
+      "lon": -0.1380344,
+      "tags": {
+        "name": "Daniel Crouch Rare Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4958951721,
+      "lat": 51.4865601,
+      "lon": -0.1800398,
+      "tags": {
+        "name": "Daunt Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5012390477,
+      "lat": 51.4614766,
+      "lon": -0.1138494,
+      "tags": {
+        "addr:city": "Brixton, London",
+        "addr:housenumber": "439",
+        "addr:postcode": "SW9 8LN",
+        "addr:street": "Coldharbour Lane",
+        "email": "books@bookmongers.com",
+        "name": "Bookmongers",
+        "opening_hours": "Mo-Sa 10:30-18:30; Su 11:00-16:00",
+        "phone": "+44 20 7738 4225",
+        "shop": "books",
+        "website": "http://bookmongers.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5014301823,
+      "lat": 51.483712,
+      "lon": -0.1766946,
+      "tags": {
+        "addr:housenumber": "357",
+        "addr:street": "King's Road",
+        "email": "info@worldsendbookshop.com",
+        "name": "Worlds End Bookshop",
+        "name:en": "Worlds End Bookshop",
+        "phone": "+44 20 7352 9376",
+        "shop": "books",
+        "website": "http://www.worldsendbookshop.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5103159947,
+      "lat": 51.4975533,
+      "lon": -0.1292666,
+      "tags": {
+        "name": "Church House Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5273992766,
+      "lat": 51.495134,
+      "lon": -0.1478859,
+      "tags": {
+        "name": "Belgravia Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5383017327,
+      "lat": 51.5773069,
+      "lon": 0.1831396,
+      "tags": {
+        "addr:city": "Romford",
+        "addr:housename": "The Liberty Shopping Centre",
+        "addr:postcode": "RM1 3RL",
+        "name": "WaterStones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5418484739,
+      "lat": 51.5059587,
+      "lon": -0.1174036,
+      "tags": {
+        "name": "Foyles",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5519902630,
+      "lat": 51.4585211,
+      "lon": 0.0028491,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "266",
+        "addr:postcode": "SE13 5PL",
+        "addr:street": "Lee High Road",
+        "name": "Halcyon Books",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "operator": "Halcyon Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5585265729,
+      "lat": 51.5027785,
+      "lon": -0.3829577,
+      "tags": {
+        "addr:city": "Southall",
+        "addr:housenumber": "22",
+        "addr:postcode": "UB2 5AA",
+        "addr:street": "Dominion Road",
+        "name": "Saklatvala Hall",
+        "office": "political_party",
+        "operator": "Communist Party of Great Britain (Marxist-Leninist)",
+        "shop": "books",
+        "website": "http://www.cpgb-ml.org"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5643242586,
+      "lat": 51.5121914,
+      "lon": -0.142763,
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "32",
+        "addr:street": "St George Street",
+        "description": "Bernard J Shapero specialise in an assortment of rare and first edition books on history, travel and English literature.",
+        "name": "Bernard J Shapero Rare Books",
+        "shop": "books",
+        "website": "https://shapero.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5695229700,
+      "lat": 51.3590917,
+      "lon": -0.1494964,
+      "tags": {
+        "name": "The Oasis",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5718265348,
+      "lat": 51.5080161,
+      "lon": -0.1419158,
+      "tags": {
+        "addr:housenumber": "43",
+        "addr:street": "Dover Street",
+        "name": "Peter Harrington",
+        "shop": "books",
+        "website": "http://www.peterharrington.co.uk/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5760381481,
+      "lat": 51.5050731,
+      "lon": -0.0857965,
+      "tags": {
+        "level": "0",
+        "name": "The Bookshop",
+        "operator": "WH Smith",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5853103185,
+      "lat": 51.5041205,
+      "lon": 0.0470969,
+      "tags": {
+        "name": "WH Smith",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5853220189,
+      "lat": 51.5035641,
+      "lon": 0.0494144,
+      "tags": {
+        "addr:city": "London",
+        "addr:place": "London City Airport",
+        "name": "WH Smith",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5853235388,
+      "lat": 51.5038591,
+      "lon": 0.0494513,
+      "tags": {
+        "addr:city": "London",
+        "addr:place": "London City Airport",
+        "name": "WH Smith",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5854491954,
+      "lat": 51.5121221,
+      "lon": -0.1345818,
+      "tags": {
+        "name": "Adanami Shobo Japanese Book Store",
+        "second_hand": "yes",
+        "shop": "books",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5952680225,
+      "lat": 51.5638418,
+      "lon": -0.0055893,
+      "tags": {
+        "addr:housenumber": "159",
+        "addr:street": "Francis Road",
+        "name": "Phlox Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6053144255,
+      "lat": 51.5530521,
+      "lon": -0.0049145,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "78",
+        "addr:street": "High Road Leyton",
+        "level": "0",
+        "name": "Tayba",
+        "religion": "muslim",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6053452357,
+      "lat": 51.553148,
+      "lon": -0.0049198,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "82",
+        "addr:postcode": "E15 2BP",
+        "addr:street": "High Road Leyton",
+        "addr:suburb": "Stratford",
+        "contact:phone": "+44 20 8519 1300",
+        "fhrs:id": "654307",
+        "fhrs:local_authority_id": "7055",
+        "level": "0",
+        "name": "Noor Ul Islam Bookshop",
+        "religion": "muslim",
+        "shop": "books",
+        "source:addr:postcode": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6055613222,
+      "lat": 51.5544126,
+      "lon": -0.005132,
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "126",
+        "addr:postcode": "E15 2BX",
+        "addr:street": "High Road Leyton",
+        "addr:suburb": "Stratford",
+        "fhrs:id": "654270",
+        "fhrs:local_authority_id": "11602",
+        "name": "Al Barakat Islamic Bookshop",
+        "religion": "muslim",
+        "shop": "books",
+        "source:addr:postcode": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6085697469,
+      "lat": 51.5376419,
+      "lon": -0.0611489,
+      "tags": {
+        "name": "Donlon Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 48615822,
+      "nodes": [
+        617424261,
+        1597687538,
+        1857917767,
+        617424263,
+        5444031618,
+        617424266,
+        1857917775,
+        617424269,
+        617424261
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "12-14",
+        "addr:postcode": "WC2E 9LP",
+        "addr:street": "Long Acre",
+        "books": "maps;travel",
+        "building": "yes",
+        "building:levels": "4",
+        "building:material": "brick",
+        "contact:phone": "+44 20 78361321",
+        "contact:website": "http://www.stanfords.co.uk/",
+        "name": "Stanfords",
+        "note": "moving to 7 Mercer Walk",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 11:30-18:00",
+        "roof:colour": "dark_grey",
+        "roof:levels": "2",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 61886793,
+      "nodes": [
+        771243537,
+        771243210,
+        771244063,
+        771244301,
+        771243537
+      ],
+      "tags": {
+        "addr:housenumber": "47",
+        "addr:street": "North Cross Road",
+        "building": "yes",
+        "old_name": "Pretty Traditional",
+        "shop": "books",
+        "source": "Bing;OS StreetView",
+        "website": "http://www.ryebooks.co.uk/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 62222978,
+      "nodes": [
+        776334876,
+        776335415,
+        776334680,
+        776336384,
+        776334876
+      ],
+      "tags": {
+        "addr:housenumber": "14",
+        "addr:street": "Lordship Lane",
+        "building": "yes",
+        "name": "Chener Books",
+        "shop": "books",
+        "source": "Bing;OS StreetView"
+      }
+    },
+    {
+      "type": "way",
+      "id": 67555371,
+      "nodes": [
+        815702498,
+        815702523,
+        815702446,
+        815702422,
+        815702498
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "51",
+        "addr:postcode": "NW3 2RR",
+        "addr:street": "South End Road",
+        "building": "yes",
+        "name": "Daunt Books",
+        "opening_hours": "Mo-Sa 09:00-18:00; Su 11:00-18:00",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 71215736,
+      "nodes": [
+        847744467,
+        847744649,
+        847744515,
+        847744803,
+        847744467
+      ],
+      "tags": {
+        "addr:housenumber": "76",
+        "addr:street": "Stroud Green Road",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "New Beacon books",
+        "phone": "+44 20 7272 4889",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 72140255,
+      "nodes": [
+        857557184,
+        857556840,
+        857557195,
+        857556895,
+        857557184
+      ],
+      "tags": {
+        "addr:housenumber": "79",
+        "addr:postcode": "WC2R 0DW",
+        "addr:street": "Strand",
+        "building": "no",
+        "name": "Stamp Centre",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 73045963,
+      "nodes": [
+        866964373,
+        866963325,
+        866963977,
+        866962693,
+        866964837,
+        866963299,
+        866964373
+      ],
+      "tags": {
+        "addr:housenumber": "131",
+        "addr:postcode": "SE15 4QY",
+        "addr:street": "Bellenden Road",
+        "building": "yes",
+        "name": "Review",
+        "shop": "books",
+        "source": "Bing;OS StreetView"
+      }
+    },
+    {
+      "type": "way",
+      "id": 84730500,
+      "nodes": [
+        984078964,
+        984078967,
+        984078970,
+        1407394736,
+        984078973,
+        984078964
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Pages of Hackney",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 90153865,
+      "nodes": [
+        1045151784,
+        1045152021,
+        1045151609,
+        1045152071,
+        1045151784
+      ],
+      "tags": {
+        "addr:housenumber": "51",
+        "addr:street": "The Cut",
+        "building": "yes",
+        "name": "The Bookshop Theatre",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 90261098,
+      "nodes": [
+        1046521630,
+        1046521609,
+        1046521622,
+        1046521648,
+        1046521678,
+        1046521603,
+        1046521604,
+        1046521675,
+        1046521684,
+        1046521653,
+        1046521681,
+        1046521589,
+        1046521624,
+        1046521686,
+        1046521673,
+        1046521629,
+        1046521602,
+        495535876,
+        524095421,
+        1046521660,
+        1046521599,
+        1046521587,
+        1046521704,
+        1046521631,
+        1046521620,
+        1046521650,
+        1046521585,
+        1046521655,
+        1046521601,
+        1046521641,
+        1046521606,
+        1046521607,
+        1046521644,
+        1046521689,
+        1046521627,
+        1046521657,
+        1046521694,
+        1046521583,
+        1046521630
+      ],
+      "tags": {
+        "brand": "Waterstones",
+        "building": "yes",
+        "name": "Gower Street Waterstones",
+        "opening_hours": "Mo-Fr 08:30-21:00, Sa 08:30-20:00, Su 12:00-18:00",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 96237045,
+      "nodes": [
+        1115501198,
+        1115501199,
+        2835483008,
+        1115501200,
+        2833445961,
+        2833445963,
+        2833445964,
+        2833445962,
+        1115501201,
+        3409712211,
+        3409712212,
+        3409712213,
+        1115501198
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "107",
+        "addr:postcode": "WC2H 0DT",
+        "addr:street": "Charing Cross Road",
+        "building": "yes",
+        "name": "Foyles",
+        "opening_hours": "Mo-Sa 09:30-21:00; Su 11:30-18:00",
+        "payment:american_express": "yes",
+        "phone": "+44 20 7437 5660",
+        "shop": "books",
+        "source": "OS;Bing",
+        "website": "http://www.foyles.co.uk/",
+        "wheelchair": "yes",
+        "wikidata": "Q27896889",
+        "wikipedia": "en:Foyles"
+      }
+    },
+    {
+      "type": "way",
+      "id": 97966891,
+      "nodes": [
+        1133831178,
+        1133831122,
+        1133831120,
+        1133831174,
+        1133831143,
+        1133831178
+      ],
+      "tags": {
+        "addr:housenumber": "87",
+        "addr:street": "Salusbury Road",
+        "building": "yes",
+        "name": "Queen's Park Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 99379752,
+      "nodes": [
+        1149458822,
+        1149459246,
+        1149459362,
+        1149458635,
+        1149458928,
+        1149459111,
+        1149458822
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bookends",
+        "shop": "books",
+        "source": "Bing;photographic_survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 107710476,
+      "nodes": [
+        1237363691,
+        1237363659,
+        1237363688,
+        1237363678,
+        1237363691
+      ],
+      "tags": {
+        "addr:housenumber": "113",
+        "addr:postcode": "NW6 6JH",
+        "addr:street": "Kilburn High Road",
+        "building": "yes",
+        "building:levels": "3",
+        "contact:phone": "+44 20 73283111",
+        "contact:website": "http://www.whsmith.co.uk/Support/StoreDetail.aspx?StoreID=4222",
+        "name": "WH Smith",
+        "opening_hours": "Mo-Sa 09:00-18:00; Su 10:30-17:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 112674249,
+      "nodes": [
+        1280209932,
+        1280209942,
+        1280209943,
+        1280209944,
+        1280209930,
+        1280209932
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "64A",
+        "building": "yes",
+        "name": "Adrian Harrington",
+        "shop": "books",
+        "source": "Bing;survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 113115204,
+      "nodes": [
+        1283749667,
+        1283749674,
+        1283749680,
+        1283749681,
+        5123501419,
+        1283749682,
+        1283749667
+      ],
+      "tags": {
+        "access": "no",
+        "building": "yes",
+        "name": "Oxfam Bookshop",
+        "shop": "books",
+        "source": "Bing",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 113749640,
+      "nodes": [
+        1289493483,
+        1289493491,
+        1289493496,
+        1289493497,
+        1931944293,
+        1289493504,
+        1289493506,
+        1289493507,
+        1289493508,
+        1931944297,
+        1289493483
+      ],
+      "tags": {
+        "building": "yes",
+        "building:colour": "#B52222",
+        "building:levels": "4",
+        "building:material": "brick",
+        "name": "Waterstones",
+        "shop": "books",
+        "source": "Bing;photograph",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 121533778,
+      "nodes": [
+        1360312222,
+        1360312216,
+        1360312213,
+        1360312218,
+        1360312222
+      ],
+      "tags": {
+        "addr:housenumber": "100",
+        "addr:postcode": "SW3 6HS",
+        "addr:street": "Fulham Road",
+        "building": "yes",
+        "contact:phone": "+44 20 75910220",
+        "contact:website": "http://peterharrington.co.uk",
+        "name": "Peter Harrington",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 122009335,
+      "nodes": [
+        1364375840,
+        1190640588,
+        1364333460,
+        1190640590,
+        1364333464,
+        1364375854,
+        1364375840
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "WH Smith",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 126610389,
+      "nodes": [
+        1403152003,
+        1403152004,
+        1403152043,
+        1403152041,
+        1403152022,
+        1403152021,
+        1403152003
+      ],
+      "tags": {
+        "addr:housenumber": "25",
+        "addr:street": "Half Moon Lane",
+        "books": "children",
+        "building": "yes",
+        "name": "Tales on Moon Lane",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 126610393,
+      "nodes": [
+        1403152008,
+        1403152007,
+        1403152046,
+        1403152048,
+        1403152029,
+        1403152030,
+        1403152008
+      ],
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:postcode": "SE24 9JU",
+        "addr:street": "Half Moon Lane",
+        "building": "yes",
+        "charity": "yes",
+        "fhrs:id": "467669",
+        "name": "Oxfam Bookshop",
+        "operator": "Oxfam",
+        "second_hand": "yes",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 132072538,
+      "nodes": [
+        5745651167,
+        5828020142,
+        1440165665,
+        1453583148,
+        1440962607,
+        3579328529,
+        1453583138,
+        5745651167
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "The Arcade, Westfield Stratford City",
+        "addr:housenumber": "40",
+        "addr:postcode": "E20 1EH",
+        "addr:street": "Montfichet Road",
+        "fhrs:authority": "Newham",
+        "fhrs:id": "830632",
+        "fhrs:local_authority_id": "12/00136/FOOD",
+        "indoor": "room",
+        "level": "-1",
+        "name": "WH Smith",
+        "shop": "books",
+        "source:addr": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140574369,
+      "nodes": [
+        1539891512,
+        1539891316,
+        1539891312,
+        1539891452,
+        1539891267,
+        1539891489,
+        1539891512
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Second-hand Bookshop",
+        "shop": "books",
+        "source": "Bing",
+        "source:name": "park map"
+      }
+    },
+    {
+      "type": "way",
+      "id": 146543204,
+      "nodes": [
+        1750077596,
+        1145288793,
+        1145288794,
+        1750077599,
+        1750077597,
+        1750077596
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "2, 2A",
+        "addr:street": "Chadwell Street",
+        "building": "yes",
+        "name": "Children's Books",
+        "shop": "books",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 148887992,
+      "nodes": [
+        1619464700,
+        1619464696,
+        1493328981,
+        1619464693,
+        1619464692,
+        1619464694,
+        1619464695,
+        1619464698,
+        1619464699,
+        1619464700
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "83-84",
+        "addr:postcode": "W1U 4QW",
+        "addr:street": "Marylebone High Street",
+        "building": "yes",
+        "name": "Daunt Books",
+        "opening_hours": "Mo-Sa 09:00-19:30; Su 11:00-18:00",
+        "phone": "+44 20 7224 2295",
+        "shop": "books",
+        "source": "Bing;photographic_survey",
+        "website": "http://www.dauntbooks.co.uk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 148888007,
+      "nodes": [
+        1619464659,
+        1619464653,
+        1619464652,
+        1619464646,
+        1619464644,
+        1619464642,
+        1619464657,
+        1619464659
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Oxfam Books & Music",
+        "shop": "books",
+        "source": "Bing;photographic_survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 154293363,
+      "nodes": [
+        1668506682,
+        1668506679,
+        1668506652,
+        1668506655,
+        1668506633,
+        1668506640,
+        1668506682
+      ],
+      "tags": {
+        "addr:housenumber": "22",
+        "addr:postcode": "SW7 2LT",
+        "addr:street": "Thurloe Street",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "South Kensington Books",
+        "second_hand": "yes",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 156620028,
+      "nodes": [
+        1330709154,
+        5514875446,
+        1688535755,
+        1324710160,
+        1330709154
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "1",
+        "addr:street": "Berwick Street",
+        "books": "comic",
+        "level": "0",
+        "name": "Gosh!",
+        "phone": "+44 20 7636 1011",
+        "postal_code": "W1F 0DR",
+        "shop": "books",
+        "website": "http://www.goshlondon.com/",
+        "wheelchair": "limited",
+        "wikimedia_commons": "File:Berwick_Street_shops_Gosh.jpg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157314582,
+      "nodes": [
+        1695218734,
+        1758880723,
+        1695218732,
+        1695218728,
+        1695218730,
+        1695218734
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "62",
+        "addr:street": "Great Eastern Street",
+        "building": "yes",
+        "building:levels": "4",
+        "shop": "books",
+        "source": "Bing;photographic_survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157748210,
+      "nodes": [
+        1700009657,
+        1700009636,
+        1700009635,
+        1700009654,
+        1700009657
+      ],
+      "tags": {
+        "alt_name": "Rudolf Steiner Books",
+        "level": "0",
+        "name": "The Wellspring Bookshop",
+        "shop": "books",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158229291,
+      "nodes": [
+        1704593779,
+        1704593732,
+        1704593687,
+        1727068695,
+        1704593701,
+        1704593737,
+        1704593720,
+        1704593779
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Oxfam Bookshop",
+        "shop": "books",
+        "source": "Bing;photo_survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159466937,
+      "nodes": [
+        1715820647,
+        1715820649,
+        1715820612,
+        1715820605,
+        1715820603,
+        1715820647
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "226",
+        "addr:street": "High Street",
+        "addr:suburb": "Walthamstow",
+        "building": "retail",
+        "name": "Book Shop",
+        "shop": "books",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 159741189,
+      "nodes": [
+        1718446023,
+        1718445835,
+        1718446099,
+        1718446172,
+        1718446186,
+        1718446191,
+        1718446265,
+        1718446277,
+        1718446023
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "112-114",
+        "addr:street": "Holland Park Avenue",
+        "building": "yes",
+        "level": "0",
+        "name": "Daunt Books",
+        "shop": "books",
+        "source": "Bing;photographic_survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160661222,
+      "nodes": [
+        1727000263,
+        1727000268,
+        1727000255,
+        1727000250,
+        1727000254,
+        1727000248,
+        1727000263
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "1",
+        "addr:street": "Greenwich South Street",
+        "building": "yes",
+        "name": "Halcyon Books",
+        "shop": "books",
+        "source": "Bing;photographic_survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160678842,
+      "nodes": [
+        1727140445,
+        1727140450,
+        2562131124,
+        4708915507,
+        4708915508,
+        1727140421,
+        1727140445
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "51",
+        "addr:postcode": "SE10 9BL",
+        "addr:street": "Greenwich Church Street",
+        "area": "yes",
+        "building": "yes",
+        "level": "0",
+        "name": "Waterstones",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 11:30-17:30",
+        "shop": "books",
+        "source": "photograph",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.waterstones.com/bookshops/greenwich",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 164245934,
+      "nodes": [
+        1758951525,
+        1758951528,
+        1781389305,
+        1758951543,
+        1758951538,
+        1758951525
+      ],
+      "tags": {
+        "addr:housenumber": "69",
+        "addr:street": "Rivington Street",
+        "building": "yes",
+        "name": "Art Words Bookshop",
+        "shop": "books",
+        "source": "Bing;photographic_survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 182827414,
+      "nodes": [
+        1931944291,
+        1759071596,
+        1759071594,
+        1931944255,
+        1931944249,
+        1931944291
+      ],
+      "tags": {
+        "building": "yes",
+        "building:colour": "white",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "name": "Pauline Books & Media",
+        "shop": "books",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "way",
+      "id": 183362088,
+      "nodes": [
+        603129547,
+        1937332616,
+        1937332599,
+        1937332594,
+        1937332568,
+        1937332544,
+        1937332545,
+        1937332549,
+        1937332555,
+        5451506223,
+        603129547
+      ],
+      "tags": {
+        "building": "yes",
+        "landuse": "commercial",
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 194081481,
+      "nodes": [
+        585209836,
+        2045922609,
+        2045922615,
+        2045922606,
+        585209836
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "50",
+        "addr:postcode": "SE19 3RW",
+        "addr:street": "Westow Street",
+        "addr:suburb": "Upper Norwood",
+        "level": "0",
+        "name": "The Bookseller Crow on the Hill",
+        "shop": "books",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "way",
+      "id": 198354775,
+      "nodes": [
+        2084947066,
+        2084947077,
+        2084947096,
+        2084947109,
+        2084947113,
+        2084947111,
+        2084947118,
+        2084947115,
+        2084947105,
+        2084947097,
+        2084947066
+      ],
+      "tags": {
+        "addr:city": "Croydon",
+        "addr:housenumber": "96",
+        "addr:postcode": "CR0 1RD",
+        "addr:street": "Church Street",
+        "books": "comic",
+        "building": "retail",
+        "name": "A Place In Space",
+        "shop": "books",
+        "source": "survey",
+        "survey:date": "2018-10-04"
+      }
+    },
+    {
+      "type": "way",
+      "id": 199398434,
+      "nodes": [
+        2094002761,
+        2094002763,
+        2094002765,
+        2094002764,
+        2096222316,
+        2094002761
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "3",
+        "building:material": "brick",
+        "name": "Oxfam Books",
+        "roof:levels": "1",
+        "roof:orientation": "across",
+        "shop": "books",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "way",
+      "id": 199398446,
+      "nodes": [
+        2094002607,
+        2096222278,
+        1687075788,
+        2094002584,
+        2094002562,
+        2094002552,
+        2094002547,
+        2094002554,
+        2094002550,
+        2094002556,
+        2094002553,
+        2094002573,
+        2094002592,
+        2094002607
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housename": "Waterstones",
+        "addr:housenumber": "68-69",
+        "addr:street": "Hampstead High Street",
+        "building": "yes",
+        "building:levels": "3",
+        "building:material": "brick",
+        "name": "Waterstones",
+        "shop": "books",
+        "source": "Bing;photograph",
+        "website": "www.waterstones.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 203294794,
+      "nodes": [
+        2133006202,
+        2133006208,
+        2133006207,
+        2133006209,
+        2133006210,
+        2133006203,
+        2133006202
+      ],
+      "tags": {
+        "addr:housenumber": "70",
+        "addr:street": "Queens Road",
+        "building": "retail",
+        "name": "Sweetness of Imaan",
+        "shop": "books",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 205143240,
+      "nodes": [
+        308728970,
+        2151162627,
+        2151162700,
+        2151182967,
+        2151162703,
+        2151162684,
+        308728970
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "2",
+        "name": "WHSmith",
+        "shop": "books",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "way",
+      "id": 205748414,
+      "nodes": [
+        2157245196,
+        2157245199,
+        2157245234,
+        2157245231,
+        2157245196
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "3",
+        "building:material": "brick",
+        "name": "Bookcase London",
+        "roof:levels": "1",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
+        "shop": "books",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "way",
+      "id": 205748435,
+      "nodes": [
+        2157245226,
+        2157245468,
+        2157245469,
+        2157245230,
+        2157245226
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "220-226",
+        "addr:street": "Chiswick High Road",
+        "area": "yes",
+        "level": "0",
+        "name": "Waterstones",
+        "shop": "books",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "way",
+      "id": 205876524,
+      "nodes": [
+        2158614797,
+        2158614783,
+        2158614781,
+        2158614793,
+        2158614791,
+        2158614797
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "118",
+        "addr:street": "Wood Street",
+        "addr:suburb": "Walthamstow",
+        "books": "non_fiction",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Non-Fiction Second Hand Book Shop",
+        "second_hand": "only",
+        "shop": "books",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 205902766,
+      "nodes": [
+        2159151580,
+        2159151573,
+        2159151515,
+        2159151523,
+        2159151580
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "183",
+        "addr:postcode": "W4 2DR",
+        "addr:street": "Chiswick High Road",
+        "building": "yes",
+        "name": "Foster Books",
+        "opening_hours": "Mo-Th, Sa 10:30-17:30",
+        "shop": "books",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206166105,
+      "nodes": [
+        2161709419,
+        2161709416,
+        2161709414,
+        2161709417,
+        2161709419
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "93",
+        "addr:street": "Wood Street",
+        "addr:suburb": "Walthamstow",
+        "books": "religion",
+        "building": "yes",
+        "name": "Christian Book Shop",
+        "religion": "christian",
+        "shop": "books",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 264131970,
+      "nodes": [
+        2697983975,
+        2697983977,
+        2697983979,
+        2697983981,
+        2697983984,
+        2697983986,
+        2697983988,
+        2697983975
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "85a",
+        "addr:postcode": "E1 7QX",
+        "addr:street": "Whitechapel High Street",
+        "alt_name": "Freedom Press;Freedom Book Shop;Freedom Publishing",
+        "books": "anarchism",
+        "building": "commercial",
+        "contact:email": "shop@freedompress.org.uk",
+        "contact:twitter": "@Freedom_Paper",
+        "contact:website": "http://www.freedompress.org.uk/",
+        "image": "File:Freedom Press building - 2014.jpg",
+        "name": "Freedom Bookshop",
+        "operator:type": "community",
+        "shop": "books",
+        "wheelchair": "no",
+        "wikidata": "Q641555",
+        "wikimedia_commons": "Category:Freedom Press",
+        "wikipedia": "en:Freedom Press"
+      }
+    },
+    {
+      "type": "way",
+      "id": 267559622,
+      "nodes": [
+        2729973062,
+        2729973066,
+        2729973067,
+        2729973063,
+        2729973062
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "22",
+        "addr:street": "Brick Lane",
+        "building": "yes",
+        "name": "Sangeeta",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 271614191,
+      "nodes": [
+        2765658465,
+        2765658466,
+        2765658438,
+        2765658435,
+        2765658465
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "166",
+        "addr:street": "Brick Lane",
+        "building": "yes",
+        "name": "Brick Lane Bookshop",
+        "payment:american_express": "yes",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 272530894,
+      "nodes": [
+        2774662833,
+        2774662832,
+        2774662834,
+        3476508127,
+        2774662836,
+        2774662835,
+        2774662833
+      ],
+      "tags": {
+        "addr:housenumber": "46",
+        "addr:postcode": "W1J 7UH",
+        "addr:street": "Curzon Street",
+        "building": "retail",
+        "building:levels": "4",
+        "building:material": "brick",
+        "name": "Maggs Bros Ltd",
+        "shop": "books",
+        "telephone": "+44 20 7495 8580",
+        "website": "https://www.maggs.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277929206,
+      "nodes": [
+        2823668267,
+        2823668261,
+        2823668268,
+        2823668276,
+        2823668270,
+        2823668275,
+        2823668267
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "24-26",
+        "addr:street": "Great Queen Street",
+        "building": "retail",
+        "name": "Toye Kenning & Spencer",
+        "shop": "books",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "way",
+      "id": 290321029,
+      "nodes": [
+        675936469,
+        2938691531,
+        2938691529,
+        2938691523,
+        2938691517,
+        2938691513,
+        2938691512,
+        2938691516,
+        2938691520,
+        2938691524,
+        2938691532,
+        675936469
+      ],
+      "tags": {
+        "addr:country": "GB",
+        "addr:housenumber": "203-206",
+        "addr:postcode": "W1J 9HD",
+        "addr:street": "Piccadilly",
+        "building": "yes",
+        "building:levels": "6",
+        "contact:phone": "+44 843 2908549",
+        "name": "Waterstones",
+        "old_name": "Simpsons of Piccadilly",
+        "opening_hours": "Mo-Sa 09:00-22:00; Su 12:00-18:30",
+        "shop": "books",
+        "wikidata": "Q7521170"
+      }
+    },
+    {
+      "type": "way",
+      "id": 290459102,
+      "nodes": [
+        2939843125,
+        2939843127,
+        2939843128,
+        2939843126,
+        2939843125
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "66",
+        "addr:postcode": "WC1N 1AB",
+        "addr:street": "Marchmont Street",
+        "building": "yes",
+        "contact:email": "sales@gaystheword.co.uk",
+        "gay": "yes",
+        "lgbtq": "primary",
+        "name": "Gay's The Word",
+        "opening_hours": "Mo-Sa 10:00-18:30;Su 14:00-18:00",
+        "shop": "books",
+        "website": "http://www.gaystheword.co.uk",
+        "wikidata": "Q5528519"
+      }
+    },
+    {
+      "type": "way",
+      "id": 290460116,
+      "nodes": [
+        2939860820,
+        2939860822,
+        2939860823,
+        2939860821,
+        2939860820
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "82",
+        "addr:street": "Marchmont Street",
+        "building": "yes",
+        "name": "Judd Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 291687164,
+      "nodes": [
+        2951562088,
+        2951562090,
+        2951562091,
+        2951562089,
+        2951562088
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Owl Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 298834137,
+      "nodes": [
+        3027873174,
+        3027873166,
+        3027873536,
+        3027873546,
+        3027873548,
+        3027873222,
+        3027873174
+      ],
+      "tags": {
+        "addr:postcode": "TW11 8HA",
+        "addr:street": "High Street",
+        "building": "commercial",
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 300873745,
+      "nodes": [
+        3049649080,
+        3049649081,
+        3049649089,
+        3049649087,
+        3049649080
+      ],
+      "tags": {
+        "addr:housenumber": "22",
+        "building": "yes",
+        "name": "The House of Knowledge",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 301111476,
+      "nodes": [
+        3052238449,
+        3052238451,
+        3052238452,
+        3052238450,
+        3052238449
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "59",
+        "addr:street": "Lamb's Conduit Street",
+        "building": "yes",
+        "name": "Persephone Books",
+        "shop": "books",
+        "wikidata": "Q27086673"
+      }
+    },
+    {
+      "type": "way",
+      "id": 313318368,
+      "nodes": [
+        3192293267,
+        5875270973,
+        3192293266,
+        3192293269,
+        3192293270,
+        3192293271,
+        3192293267
+      ],
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:street": "Curzon Street",
+        "building": "yes",
+        "building:color": "grey",
+        "building:levels": "5",
+        "name": "G. Heywood Hill Ltd.",
+        "shop": "books",
+        "website": "https://www.heywoodhill.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 314241802,
+      "nodes": [
+        3202891298,
+        3202891299,
+        3202891300,
+        3202891301,
+        3202891302,
+        3202891298
+      ],
+      "tags": {
+        "addr:housenumber": "781",
+        "addr:postcode": "SW6 5HA",
+        "addr:street": "Fulham Road",
+        "building": "yes",
+        "name": "Nomad Books",
+        "shop": "books",
+        "website": "http://www.nomadbooks.co.uk/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 317007127,
+      "nodes": [
+        3232137262,
+        3232137264,
+        3232137261,
+        3232129356,
+        3232137262
+      ],
+      "tags": {
+        "addr:city": "Upminster",
+        "addr:housenumber": "27",
+        "addr:postcode": "RM14 2AP",
+        "addr:street": "Corbets Tey Road",
+        "name": "Swan Books",
+        "shop": "books",
+        "website": "http://www.swanbooks.co.uk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 321784557,
+      "nodes": [
+        3285503523,
+        3285503522,
+        4881604242,
+        4881604241,
+        3285503524,
+        3285503525,
+        3285503523
+      ],
+      "tags": {
+        "addr:housenumber": "277",
+        "addr:postcode": "NW6 1QS",
+        "addr:street": "West End Lane",
+        "building": "yes",
+        "name": "West End Lane Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 326914179,
+      "nodes": [
+        3336222933,
+        3051147759,
+        3336222928,
+        3336222927,
+        3336222933
+      ],
+      "tags": {
+        "addr:housenumber": "24",
+        "addr:street": "Brixton Station Road",
+        "building": "viaduct",
+        "building:levels": "1",
+        "name": "Beautiful Books",
+        "roof:shape": "flat",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 349937282,
+      "nodes": [
+        3557236685,
+        3557236671,
+        616691988,
+        3557236670,
+        670484433,
+        3557236683,
+        3557236685
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "112",
+        "addr:street": "Shaftesbury Avenue",
+        "description": "Book and art materials store specialising in Chinese langauge books and materials for Chinese caligraphy",
+        "name": "Guanghwa",
+        "name:zh": "光華書店",
+        "note": "East side of the peak in the roof, about 7m West (to 12m West) of border of buildings on West side of Frith Street",
+        "shop": "books",
+        "source": "survey;BIng 2012;local_knowledge",
+        "survey:date": "2014-07-26"
+      }
+    },
+    {
+      "type": "way",
+      "id": 350651938,
+      "nodes": [
+        3564098662,
+        3564098665,
+        3564098666,
+        3564098663,
+        3564098662
+      ],
+      "tags": {
+        "addr:city": "Twickenham",
+        "addr:housenumber": "30",
+        "addr:postcode": "TW2 5AH",
+        "addr:street": "Staines Road",
+        "building": "yes",
+        "name": "Anthony C. Hall",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 352696772,
+      "nodes": [
+        3584602894,
+        3584602893,
+        427570998,
+        3584602392,
+        3586790752,
+        3584602894
+      ],
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Caledonian Road",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "name": "Housmans",
+        "note": "Specialist radical bookshop (eg books on politics, peace etc)",
+        "roof:levels": "1",
+        "shop": "books",
+        "website": "http://www.housmans.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 356683814,
+      "nodes": [
+        3620978161,
+        3620978156,
+        3620978154,
+        3620978159,
+        3620978161
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "14",
+        "addr:street": "Pembridge Road",
+        "building": "retail",
+        "building:colour": "grey",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "name": "Book & Comic Exchange",
+        "shop": "books",
+        "source:addr:housenumber": "extrapolation;OS map dated 1954"
+      }
+    },
+    {
+      "type": "way",
+      "id": 357835318,
+      "nodes": [
+        3629525829,
+        3629525830,
+        3148303226,
+        3148303228,
+        3148303230,
+        255747933,
+        3148303229,
+        3148303227,
+        255747919,
+        3629525829
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "1 Portsmouth Street",
+        "addr:housenumber": "1",
+        "addr:postcode": "WC2A 2ES",
+        "addr:street": "1 Portsmouth Street",
+        "alt_name": "Alpha Books",
+        "area": "yes",
+        "books": "academic",
+        "description": "Also non-academic books",
+        "level": "0",
+        "name": "αlpha Books",
+        "operator": "LSE Students' Union",
+        "second_hand": "only",
+        "shop": "books",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 358385145,
+      "nodes": [
+        1644594477,
+        1644594437,
+        3633113396,
+        3633113397,
+        3633113398,
+        1644594477
+      ],
+      "tags": {
+        "name": "WH Smith Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 359563995,
+      "nodes": [
+        3642452314,
+        3642452315,
+        3642452311,
+        3642452310,
+        3642452314
+      ],
+      "tags": {
+        "addr:housenumber": "189a",
+        "addr:street": "Saltram Crescent",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Bilaal Bookshop",
+        "roof:colour": "black",
+        "roof:shape": "flat",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 366327399,
+      "nodes": [
+        3703049221,
+        3703050426,
+        3703049222,
+        3703049217,
+        3703049221
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "6",
+        "addr:postcode": "E8 4QJ",
+        "addr:street": "Broadway Market",
+        "building": "yes",
+        "name": "The Broadway Bookshop",
+        "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00",
+        "phone": "+44 207 241 1626",
+        "shop": "books",
+        "website": "http://www.broadwaybookshophackney.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 370404946,
+      "nodes": [
+        3741084166,
+        3741084158,
+        3741084155,
+        3741084152,
+        3741084159,
+        3741084164,
+        3741084163,
+        3741084165,
+        3741084167,
+        3741084168,
+        3741084166
+      ],
+      "tags": {
+        "building": "retail",
+        "building:colour": "grey",
+        "building:levels": "4",
+        "building:material": "concrete",
+        "name": "The Book Warehouse",
+        "roof:shape": "flat",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 372018578,
+      "nodes": [
+        3755578028,
+        3755578031,
+        3755578032,
+        3755578029,
+        3755578028
+      ],
+      "tags": {
+        "addr:housenumber": "57",
+        "addr:street": "Deptford High Street",
+        "building": "yes",
+        "building:colour": "gray",
+        "building:levels": "2",
+        "name": "Christian Resources",
+        "roof:colour": "black",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 372619379,
+      "nodes": [
+        5661375610,
+        3761729352,
+        5661375607,
+        5661375609,
+        6005580616,
+        6005580615,
+        6005580617,
+        5661375610
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "74",
+        "addr:street": "Tranquil Vale",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "The Bookshop on the Heath",
+        "shop": "books",
+        "website": "http://www.bookshopontheheath.co.uk/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 391835796,
+      "nodes": [
+        2800890157,
+        3950944640,
+        3014128480,
+        3950944617,
+        3950944612,
+        3950944626,
+        2800890157
+      ],
+      "tags": {
+        "addr:city": "Twickenham",
+        "addr:housenumber": "19",
+        "addr:postcode": "TW1 3SD",
+        "addr:street": "King Street",
+        "building": "retail",
+        "building:levels": "3",
+        "building:material": "brick",
+        "email": "twickenham@waterstones.com",
+        "name": "Waterstone's",
+        "opening_hours": "Mo-Sa 09:00-17:30;Tu 09:30-17:30;Su 10:30-16:30",
+        "phone": "+44 20 8744 2807",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 394223385,
+      "nodes": [
+        3972333077,
+        3972333088,
+        3972333094,
+        3972333085,
+        3972333077
+      ],
+      "tags": {
+        "name": "W.H. Smith Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 401191928,
+      "nodes": [
+        4036405865,
+        4230907503,
+        4230907506,
+        4230907508,
+        4230907504,
+        4230907507,
+        4230907510,
+        4036405867,
+        4036405870,
+        4230907520,
+        4230907517,
+        4036405868,
+        4036405865
+      ],
+      "tags": {
+        "addr:housenumber": "32",
+        "addr:postcode": "WC1B 3EG",
+        "addr:street": "Bedford Square",
+        "alt_name": "AA Bookshop",
+        "building": "house",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "name": "Architectural Association Bookshop",
+        "note": "This is actually signed as AA Bookshop, but I've expanded the abbrev.",
+        "roof:levels": "1",
+        "roof:material": "slate",
+        "shop": "books",
+        "source:housenumber": "OSGB 1:1250 OOC Maps via NLS",
+        "source:postcode": "FHRS Open Data"
+      }
+    },
+    {
+      "type": "way",
+      "id": 421882354,
+      "nodes": [
+        4216274134,
+        4216273228,
+        890375836,
+        890375821,
+        4216274108,
+        4216274116,
+        4216274134
+      ],
+      "tags": {
+        "name": "The Folio Society Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422540682,
+      "nodes": [
+        4222962251,
+        4222962249,
+        4222962239,
+        4222962236,
+        4222962203,
+        4222962192,
+        4222962180,
+        494923294,
+        4222962189,
+        4222962207,
+        4222962204,
+        4222962215,
+        4222962222,
+        4222962251
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "33",
+        "addr:street": "Store Street",
+        "building": "retail",
+        "building:colour": "brown",
+        "building:levels": "4",
+        "building:material": "brick",
+        "name": "Treadwell's Books",
+        "shop": "books",
+        "website": "http://www.treadwells-london.com/",
+        "wikidata": "Q16979370"
+      }
+    },
+    {
+      "type": "way",
+      "id": 424274482,
+      "nodes": [
+        4237213153,
+        949076144,
+        1272958486,
+        4237213154,
+        4237213152,
+        4237213151,
+        4237213153
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "12",
+        "addr:postcode": "WC1B 3QA",
+        "addr:street": "Bloomsbury Street",
+        "name": "Oxfam Bookshop",
+        "opening_hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00",
+        "phone": "+44 20 7637 4610",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 425013591,
+      "nodes": [
+        4243601444,
+        4243601454,
+        4243601470,
+        4243601467,
+        4243601462,
+        4243601444
+      ],
+      "tags": {
+        "name": "Waterstone's",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428194207,
+      "nodes": [
+        5178815185,
+        5178815187,
+        4273237939,
+        4273237940,
+        5178815185
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "British Heart foundation",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 428337491,
+      "nodes": [
+        4274551731,
+        4274551728,
+        4274551725,
+        4274551723,
+        4274551732,
+        4274551740,
+        4274551731
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housename": "London Waterloo Station",
+        "addr:postcode": "SE1 8SW",
+        "addr:street": "Lower Concourse",
+        "addr:unit": "22",
+        "building": "part",
+        "email": "waterloo@foyles.co.uk",
+        "level": "1",
+        "name": "Foyles",
+        "opening_hours": "Mo-Fr 07:00-21:30; Sa 09:00-21:00; Su 10:00-18:00",
+        "phone": "+44 20 3206 2680",
+        "shop": "books",
+        "website": "http://www.foyles.co.uk/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 432785673,
+      "nodes": [
+        4317396136,
+        4317396133,
+        4317396127,
+        4317396129,
+        4317396136
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "TW9 1ND",
+        "addr:street": "King Street",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "The Open Book",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 432808224,
+      "nodes": [
+        4317591812,
+        4317591813,
+        4317591816,
+        4317591820,
+        4317591819,
+        4317591818,
+        4317591817,
+        4317591815,
+        4317591814,
+        4317591812
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "2-6",
+        "addr:postcode": "TW9 1TN",
+        "addr:street": "Hill Street",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Waterstones",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 432809895,
+      "nodes": [
+        4317609262,
+        4317609264,
+        4317609276,
+        4317609275,
+        4317609262
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:street": "Red Lion Street",
+        "books": "comic",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Raygun",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 432864209,
+      "nodes": [
+        4318155604,
+        4318155602,
+        4318155605,
+        4318155608,
+        4318155604
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:postcode": "TW9 1JL",
+        "addr:street": "Church Court",
+        "books": "children",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "The Alligator's Mouth",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 436146454,
+      "nodes": [
+        4340248772,
+        4256724765,
+        4256724764,
+        4340248778,
+        4340248772
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "747",
+        "addr:street": "Barking Road",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Newham Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 438299711,
+      "nodes": [
+        4360359597,
+        4360359588,
+        4360359589,
+        4360359598,
+        4360359597
+      ],
+      "tags": {
+        "name": "The Bookshop",
+        "operator": "W. H. Smith",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 442867361,
+      "nodes": [
+        4405143979,
+        4405144194,
+        4405144195,
+        4405143982,
+        4405143979
+      ],
+      "tags": {
+        "name": "Regency Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 449283146,
+      "nodes": [
+        4462564764,
+        4462564758,
+        2906869701,
+        4462559005,
+        4462564766,
+        4462564764
+      ],
+      "tags": {
+        "description": "Catholic religious book shop",
+        "name": "Padre Pio",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 452786942,
+      "nodes": [
+        390924395,
+        4495364328,
+        4495364341,
+        4495364338,
+        4495364333,
+        4495364331,
+        4495364318,
+        4495364312,
+        390924395
+      ],
+      "tags": {
+        "name": "Waterstones",
+        "shop": "books",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 452833103,
+      "nodes": [
+        4496468310,
+        4496468303,
+        4496468294,
+        4496468296,
+        4496468306,
+        1556911440,
+        4496468310
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "466",
+        "addr:street": "Hoe Street",
+        "addr:suburb": "Walthamstow",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "KICC Bookstores",
+        "shop": "books",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "way",
+      "id": 460102251,
+      "nodes": [
+        4557789431,
+        4557789425,
+        4557789434,
+        4557789426,
+        4557789432,
+        4557789431
+      ],
+      "tags": {
+        "addr:housenumber": "260",
+        "addr:street": "Upper Richmond Road West",
+        "building": "retail",
+        "building:levels": "2",
+        "fhrs:id": "353473",
+        "name": "W H Smith",
+        "note": "The postcode has not been copied from FHRS because postcodes west of Sheen Lane begin with  SW14 7",
+        "opening_hours": "Mo-Fr 8:45-17:30; Sa 9:00-17:30; Su 10:00-17:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 460408484,
+      "nodes": [
+        4560783629,
+        4560783627,
+        4560783628,
+        4560783630,
+        4560783629
+      ],
+      "tags": {
+        "addr:housenumber": "375",
+        "addr:street": "Upper Richmond Road West",
+        "building": "retail",
+        "building:levels": "3",
+        "name": "Sheen Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 460796354,
+      "nodes": [
+        4564016527,
+        4564016526,
+        4564016525,
+        4564016528,
+        4564016529,
+        4564016530,
+        4564016527
+      ],
+      "tags": {
+        "addr:housenumber": "40-42",
+        "addr:postcode": "SW19 1RQ",
+        "addr:street": "The Broadway",
+        "building": "yes",
+        "name": "Waterstones",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00",
+        "operator:wikidata": "Q151779",
+        "phone": "+44 20 3544 6720",
+        "shop": "books",
+        "website": "https://www.waterstones.com/bookshops/wimbledon"
+      }
+    },
+    {
+      "type": "way",
+      "id": 460833873,
+      "nodes": [
+        4564334054,
+        4564334055,
+        4564334056,
+        4564334053,
+        4564334054
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "400",
+        "addr:street": "Kingsland Road",
+        "building": "yes",
+        "name": "Burley Fisher Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 461032095,
+      "nodes": [
+        4565979098,
+        4565979097,
+        4565979096,
+        4565979095,
+        4565979098
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Highgate Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469771535,
+      "nodes": [
+        4640558779,
+        4640558776,
+        4640558777,
+        4640558778,
+        4640558779
+      ],
+      "tags": {
+        "addr:housenumber": "40",
+        "addr:postcode": "SW19 5AU",
+        "addr:street": "High Street",
+        "building": "yes",
+        "name": "Wimbledon Books",
+        "opening_hours": "Mo-Sa 10:00-17:30; Su 11:00-17:00",
+        "shop": "books",
+        "website": "http://www.wimbledonbooks.co.uk"
+      }
+    },
+    {
+      "type": "way",
+      "id": 470422341,
+      "nodes": [
+        4646197353,
+        4646197352,
+        4646197351,
+        4646197350,
+        4646197348,
+        4646197349,
+        4646197354,
+        4646197353
+      ],
+      "tags": {
+        "addr:housenumber": "92",
+        "addr:street": "Willesden Lane",
+        "building": "yes",
+        "building:colour": "brown",
+        "building:levels": "3",
+        "name": "The Book Shop",
+        "roof:colour": "black",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 480077840,
+      "nodes": [
+        1330788627,
+        4731045393,
+        2785528292,
+        1324710067,
+        4731045391,
+        1330788627
+      ],
+      "tags": {
+        "building": "yes",
+        "building:colour": "brown",
+        "building:levels": "4",
+        "building:material": "brick",
+        "name": "The Society Club",
+        "shop": "books",
+        "website": "http://www.thesocietyclub.com/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 481262566,
+      "nodes": [
+        4741960448,
+        4741960446,
+        4741960445,
+        4741960447,
+        4741960448
+      ],
+      "tags": {
+        "addr:housenumber": "37",
+        "addr:postcode": "SW19 3SG",
+        "addr:street": "Hartfield Road",
+        "building": "yes",
+        "name": "Copperfield Books",
+        "opening_hours": "Mo-We 09:30-19:00; Th-Fr 09:30-20:00; Sa 08:30-19:00; Su 11:00-17:00",
+        "phone": "+44 20 8542 0113",
+        "second_hand": "yes",
+        "shop": "books",
+        "website": "http://www.copperfieldbooks.co.uk/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 485638349,
+      "nodes": [
+        4784158372,
+        4784457215,
+        4784158371,
+        4784158370,
+        4784158366,
+        4784158369,
+        4784158372
+      ],
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:street": "Mercer Walk",
+        "building": "yes",
+        "building:colour": "grey",
+        "building:levels": "4",
+        "name": "Stanfords",
+        "roof:colour": "black",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 537038237,
+      "nodes": [
+        5201204585,
+        5201204586,
+        5201204587,
+        5201204588,
+        5201204585
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "St Pauls",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 553097400,
+      "nodes": [
+        5339386813,
+        5339386812,
+        946920428,
+        5339389022,
+        5339389023,
+        5339386813
+      ],
+      "tags": {
+        "addr:housenumber": "14",
+        "addr:postcode": "WC1A 2JL",
+        "addr:street": "Bury Place",
+        "cuisine": "cake",
+        "level": "0",
+        "name": "London Review Bookshop",
+        "shop": "books",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 553097406,
+      "nodes": [
+        2536922086,
+        2536927624,
+        946920378,
+        5335790842,
+        5339078722,
+        946920263,
+        2536922086
+      ],
+      "tags": {
+        "addr:city": "London",
+        "addr:housenumber": "10",
+        "addr:street": "Bury Place",
+        "level": "0",
+        "name": "Enitharmon Editions",
+        "shop": "books",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 554358280,
+      "nodes": [
+        5350044739,
+        5350044740,
+        5350044754,
+        5350044755,
+        5350044739
+      ],
+      "tags": {
+        "name": "The Atlantis Bookshop",
+        "shop": "books",
+        "website": "http://www.theatlantisbookshop.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 556137688,
+      "nodes": [
+        874823361,
+        1937420221,
+        1700106570,
+        1700106564,
+        1700106671,
+        1937420223,
+        874823361
+      ],
+      "tags": {
+        "building": "yes",
+        "building:colour": "white",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "name": "Bookmarks",
+        "roof:colour": "dark_grey",
+        "shop": "books",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 589649625,
+      "nodes": [
+        5630658706,
+        5630658692,
+        5630658705,
+        5630658707,
+        5630658708,
+        5630658706
+      ],
+      "tags": {
+        "addr:housenumber": "60",
+        "addr:street": "Church Road",
+        "building": "retail",
+        "building:levels": "3",
+        "name": "The Barnes Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4360359588,
+      "lat": 51.473034,
+      "lon": -0.487612
+    },
+    {
+      "type": "node",
+      "id": 4360359589,
+      "lat": 51.4730355,
+      "lon": -0.4874989
+    },
+    {
+      "type": "node",
+      "id": 4360359597,
+      "lat": 51.4730838,
+      "lon": -0.4876137
+    },
+    {
+      "type": "node",
+      "id": 4360359598,
+      "lat": 51.4730853,
+      "lon": -0.4875007
+    },
+    {
+      "type": "node",
+      "id": 1644594437,
+      "lat": 51.4605253,
+      "lon": -0.4466295
+    },
+    {
+      "type": "node",
+      "id": 1644594477,
+      "lat": 51.4605544,
+      "lon": -0.4465815
+    },
+    {
+      "type": "node",
+      "id": 3633113396,
+      "lat": 51.4604051,
+      "lon": -0.4467218
+    },
+    {
+      "type": "node",
+      "id": 3633113397,
+      "lat": 51.4604527,
+      "lon": -0.4468103
+    },
+    {
+      "type": "node",
+      "id": 3633113398,
+      "lat": 51.4605447,
+      "lon": -0.4466655
+    },
+    {
+      "type": "node",
+      "id": 3972333077,
+      "lat": 51.4702879,
+      "lon": -0.4583626
+    },
+    {
+      "type": "node",
+      "id": 3972333085,
+      "lat": 51.4703463,
+      "lon": -0.4582036
+    },
+    {
+      "type": "node",
+      "id": 3972333088,
+      "lat": 51.4703682,
+      "lon": -0.4584746
+    },
+    {
+      "type": "node",
+      "id": 3972333094,
+      "lat": 51.4704379,
+      "lon": -0.4583153
+    },
+    {
+      "type": "node",
+      "id": 4405143979,
+      "lat": 51.3914415,
+      "lon": -0.3086501
+    },
+    {
+      "type": "node",
+      "id": 4405143982,
+      "lat": 51.39146,
+      "lon": -0.3086021
+    },
+    {
+      "type": "node",
+      "id": 4405144194,
+      "lat": 51.3915978,
+      "lon": -0.3088331
+    },
+    {
+      "type": "node",
+      "id": 4405144195,
+      "lat": 51.3916228,
+      "lon": -0.3087845
+    },
+    {
+      "type": "node",
+      "id": 2084947066,
+      "lat": 51.373869,
+      "lon": -0.1046265
+    },
+    {
+      "type": "node",
+      "id": 2084947077,
+      "lat": 51.3739049,
+      "lon": -0.1047485
+    },
+    {
+      "type": "node",
+      "id": 2084947096,
+      "lat": 51.3739767,
+      "lon": -0.1046764
+    },
+    {
+      "type": "node",
+      "id": 2084947097,
+      "lat": 51.3739782,
+      "lon": -0.1045389
+    },
+    {
+      "type": "node",
+      "id": 2084947105,
+      "lat": 51.3740059,
+      "lon": -0.1044976
+    },
+    {
+      "type": "node",
+      "id": 2084947109,
+      "lat": 51.3740202,
+      "lon": -0.1046379
+    },
+    {
+      "type": "node",
+      "id": 2084947111,
+      "lat": 51.3740362,
+      "lon": -0.1045517
+    },
+    {
+      "type": "node",
+      "id": 2084947113,
+      "lat": 51.3740511,
+      "lon": -0.104592
+    },
+    {
+      "type": "node",
+      "id": 2084947115,
+      "lat": 51.3740625,
+      "lon": -0.1044234
+    },
+    {
+      "type": "node",
+      "id": 2084947118,
+      "lat": 51.3740865,
+      "lon": -0.1044875
+    },
+    {
+      "type": "node",
+      "id": 3564098662,
+      "lat": 51.4441491,
+      "lon": -0.3466934
+    },
+    {
+      "type": "node",
+      "id": 3564098663,
+      "lat": 51.4442445,
+      "lon": -0.3467616
+    },
+    {
+      "type": "node",
+      "id": 3564098665,
+      "lat": 51.4441352,
+      "lon": -0.346762
+    },
+    {
+      "type": "node",
+      "id": 3564098666,
+      "lat": 51.4442281,
+      "lon": -0.3468261
+    },
+    {
+      "type": "node",
+      "id": 3027873166,
+      "lat": 51.4272877,
+      "lon": -0.3308094
+    },
+    {
+      "type": "node",
+      "id": 3027873174,
+      "lat": 51.4272955,
+      "lon": -0.3306557
+    },
+    {
+      "type": "node",
+      "id": 3027873222,
+      "lat": 51.4273737,
+      "lon": -0.3306731
+    },
+    {
+      "type": "node",
+      "id": 3027873536,
+      "lat": 51.4274177,
+      "lon": -0.3308458
+    },
+    {
+      "type": "node",
+      "id": 3027873546,
+      "lat": 51.4274872,
+      "lon": -0.3308652
+    },
+    {
+      "type": "node",
+      "id": 3027873548,
+      "lat": 51.427496,
+      "lon": -0.3307107
+    },
+    {
+      "type": "node",
+      "id": 2800890157,
+      "lat": 51.4458587,
+      "lon": -0.3288045
+    },
+    {
+      "type": "node",
+      "id": 3014128480,
+      "lat": 51.4459002,
+      "lon": -0.3287343
+    },
+    {
+      "type": "node",
+      "id": 3950944612,
+      "lat": 51.4456185,
+      "lon": -0.3284668
+    },
+    {
+      "type": "node",
+      "id": 3950944617,
+      "lat": 51.4456578,
+      "lon": -0.3283948
+    },
+    {
+      "type": "node",
+      "id": 3950944626,
+      "lat": 51.4457405,
+      "lon": -0.3286384
+    },
+    {
+      "type": "node",
+      "id": 3950944640,
+      "lat": 51.4458804,
+      "lon": -0.3287678
+    },
+    {
+      "type": "node",
+      "id": 4640558776,
+      "lat": 51.4252753,
+      "lon": -0.2204899
+    },
+    {
+      "type": "node",
+      "id": 4640558777,
+      "lat": 51.4252051,
+      "lon": -0.2204095
+    },
+    {
+      "type": "node",
+      "id": 4640558778,
+      "lat": 51.4251622,
+      "lon": -0.2205059
+    },
+    {
+      "type": "node",
+      "id": 4640558779,
+      "lat": 51.4252324,
+      "lon": -0.2205864
+    },
+    {
+      "type": "node",
+      "id": 4317396127,
+      "lat": 51.4598665,
+      "lon": -0.3069377
+    },
+    {
+      "type": "node",
+      "id": 4317396129,
+      "lat": 51.4598949,
+      "lon": -0.30699
+    },
+    {
+      "type": "node",
+      "id": 4317396133,
+      "lat": 51.4599415,
+      "lon": -0.3068341
+    },
+    {
+      "type": "node",
+      "id": 4317396136,
+      "lat": 51.4599743,
+      "lon": -0.3068961
+    },
+    {
+      "type": "node",
+      "id": 4317591812,
+      "lat": 51.4593585,
+      "lon": -0.3061833
+    },
+    {
+      "type": "node",
+      "id": 4317591813,
+      "lat": 51.4593829,
+      "lon": -0.3060385
+    },
+    {
+      "type": "node",
+      "id": 4317591814,
+      "lat": 51.4593961,
+      "lon": -0.30619
+    },
+    {
+      "type": "node",
+      "id": 4317591815,
+      "lat": 51.4594195,
+      "lon": -0.30619
+    },
+    {
+      "type": "node",
+      "id": 4317591816,
+      "lat": 51.459422,
+      "lon": -0.3058065
+    },
+    {
+      "type": "node",
+      "id": 4317591817,
+      "lat": 51.4594512,
+      "lon": -0.3061686
+    },
+    {
+      "type": "node",
+      "id": 4317591818,
+      "lat": 51.4594838,
+      "lon": -0.306123
+    },
+    {
+      "type": "node",
+      "id": 4317591819,
+      "lat": 51.4595022,
+      "lon": -0.3060667
+    },
+    {
+      "type": "node",
+      "id": 4317591820,
+      "lat": 51.4595039,
+      "lon": -0.3058615
+    },
+    {
+      "type": "node",
+      "id": 4317609262,
+      "lat": 51.4595162,
+      "lon": -0.3042038
+    },
+    {
+      "type": "node",
+      "id": 4317609264,
+      "lat": 51.4595278,
+      "lon": -0.3041296
+    },
+    {
+      "type": "node",
+      "id": 4317609275,
+      "lat": 51.4596224,
+      "lon": -0.3042586
+    },
+    {
+      "type": "node",
+      "id": 4317609276,
+      "lat": 51.4596351,
+      "lon": -0.3041809
+    },
+    {
+      "type": "node",
+      "id": 4318155602,
+      "lat": 51.4604088,
+      "lon": -0.3040787
+    },
+    {
+      "type": "node",
+      "id": 4318155604,
+      "lat": 51.4604386,
+      "lon": -0.3041135
+    },
+    {
+      "type": "node",
+      "id": 4318155605,
+      "lat": 51.4604527,
+      "lon": -0.3039813
+    },
+    {
+      "type": "node",
+      "id": 4318155608,
+      "lat": 51.4604819,
+      "lon": -0.3040156
+    },
+    {
+      "type": "node",
+      "id": 4557789425,
+      "lat": 51.4649513,
+      "lon": -0.2669969
+    },
+    {
+      "type": "node",
+      "id": 4557789426,
+      "lat": 51.4647917,
+      "lon": -0.2669337
+    },
+    {
+      "type": "node",
+      "id": 4557789431,
+      "lat": 51.4649247,
+      "lon": -0.2671696
+    },
+    {
+      "type": "node",
+      "id": 4557789432,
+      "lat": 51.4647656,
+      "lon": -0.2671034
+    },
+    {
+      "type": "node",
+      "id": 4557789434,
+      "lat": 51.4649301,
+      "lon": -0.2669885
+    },
+    {
+      "type": "node",
+      "id": 4560783627,
+      "lat": 51.4644965,
+      "lon": -0.2673013
+    },
+    {
+      "type": "node",
+      "id": 4560783628,
+      "lat": 51.4644195,
+      "lon": -0.2672578
+    },
+    {
+      "type": "node",
+      "id": 4560783629,
+      "lat": 51.4644791,
+      "lon": -0.2673744
+    },
+    {
+      "type": "node",
+      "id": 4560783630,
+      "lat": 51.4644022,
+      "lon": -0.2673301
+    },
+    {
+      "type": "node",
+      "id": 308728970,
+      "lat": 51.4926156,
+      "lon": -0.2636778
+    },
+    {
+      "type": "node",
+      "id": 2151162627,
+      "lat": 51.492604,
+      "lon": -0.2634924
+    },
+    {
+      "type": "node",
+      "id": 2151162684,
+      "lat": 51.4927522,
+      "lon": -0.263648
+    },
+    {
+      "type": "node",
+      "id": 2151162700,
+      "lat": 51.492792,
+      "lon": -0.2634577
+    },
+    {
+      "type": "node",
+      "id": 2151162703,
+      "lat": 51.4928007,
+      "lon": -0.2636374
+    },
+    {
+      "type": "node",
+      "id": 2151182967,
+      "lat": 51.4927986,
+      "lon": -0.2635927
+    },
+    {
+      "type": "node",
+      "id": 5630658692,
+      "lat": 51.4746884,
+      "lon": -0.2410335
+    },
+    {
+      "type": "node",
+      "id": 5630658705,
+      "lat": 51.4746568,
+      "lon": -0.2410089
+    },
+    {
+      "type": "node",
+      "id": 5630658706,
+      "lat": 51.4747673,
+      "lon": -0.2410951
+    },
+    {
+      "type": "node",
+      "id": 5630658707,
+      "lat": 51.4746334,
+      "lon": -0.2410862
+    },
+    {
+      "type": "node",
+      "id": 5630658708,
+      "lat": 51.474744,
+      "lon": -0.2411723
+    },
+    {
+      "type": "node",
+      "id": 2157245196,
+      "lat": 51.4926038,
+      "lon": -0.2593352
+    },
+    {
+      "type": "node",
+      "id": 2157245199,
+      "lat": 51.4926084,
+      "lon": -0.2592656
+    },
+    {
+      "type": "node",
+      "id": 2157245226,
+      "lat": 51.4927074,
+      "lon": -0.2577109
+    },
+    {
+      "type": "node",
+      "id": 2157245230,
+      "lat": 51.4927201,
+      "lon": -0.2574964
+    },
+    {
+      "type": "node",
+      "id": 2157245231,
+      "lat": 51.4927205,
+      "lon": -0.2593549
+    },
+    {
+      "type": "node",
+      "id": 2157245234,
+      "lat": 51.492725,
+      "lon": -0.2592853
+    },
+    {
+      "type": "node",
+      "id": 2157245468,
+      "lat": 51.4929253,
+      "lon": -0.2577443
+    },
+    {
+      "type": "node",
+      "id": 2157245469,
+      "lat": 51.492938,
+      "lon": -0.2575298
+    },
+    {
+      "type": "node",
+      "id": 2159151515,
+      "lat": 51.4923185,
+      "lon": -0.2569696
+    },
+    {
+      "type": "node",
+      "id": 2159151523,
+      "lat": 51.4923328,
+      "lon": -0.2569024
+    },
+    {
+      "type": "node",
+      "id": 2159151573,
+      "lat": 51.49239,
+      "lon": -0.2569938
+    },
+    {
+      "type": "node",
+      "id": 2159151580,
+      "lat": 51.4924026,
+      "lon": -0.2569212
+    },
+    {
+      "type": "node",
+      "id": 1539891267,
+      "lat": 51.4022088,
+      "lon": -0.1880708
+    },
+    {
+      "type": "node",
+      "id": 1539891312,
+      "lat": 51.4022125,
+      "lon": -0.1879156
+    },
+    {
+      "type": "node",
+      "id": 1539891316,
+      "lat": 51.4023032,
+      "lon": -0.1880026
+    },
+    {
+      "type": "node",
+      "id": 1539891452,
+      "lat": 51.4021689,
+      "lon": -0.1880324
+    },
+    {
+      "type": "node",
+      "id": 1539891489,
+      "lat": 51.402179,
+      "lon": -0.1881506
+    },
+    {
+      "type": "node",
+      "id": 1539891512,
+      "lat": 51.4022297,
+      "lon": -0.1881993
+    },
+    {
+      "type": "node",
+      "id": 4564016525,
+      "lat": 51.4200145,
+      "lon": -0.2034698
+    },
+    {
+      "type": "node",
+      "id": 4564016526,
+      "lat": 51.4199323,
+      "lon": -0.203512
+    },
+    {
+      "type": "node",
+      "id": 4564016527,
+      "lat": 51.4199476,
+      "lon": -0.2035889
+    },
+    {
+      "type": "node",
+      "id": 4564016528,
+      "lat": 51.4200298,
+      "lon": -0.2035468
+    },
+    {
+      "type": "node",
+      "id": 4564016529,
+      "lat": 51.4200429,
+      "lon": -0.2036122
+    },
+    {
+      "type": "node",
+      "id": 4564016530,
+      "lat": 51.4199607,
+      "lon": -0.2036544
+    },
+    {
+      "type": "node",
+      "id": 4741960445,
+      "lat": 51.419408,
+      "lon": -0.2056161
+    },
+    {
+      "type": "node",
+      "id": 4741960446,
+      "lat": 51.4194668,
+      "lon": -0.2055019
+    },
+    {
+      "type": "node",
+      "id": 4741960447,
+      "lat": 51.4193759,
+      "lon": -0.2055645
+    },
+    {
+      "type": "node",
+      "id": 4741960448,
+      "lat": 51.4194316,
+      "lon": -0.205457
+    },
+    {
+      "type": "node",
+      "id": 3202891298,
+      "lat": 51.4763722,
+      "lon": -0.2042889
+    },
+    {
+      "type": "node",
+      "id": 3202891299,
+      "lat": 51.4763546,
+      "lon": -0.2042903
+    },
+    {
+      "type": "node",
+      "id": 3202891300,
+      "lat": 51.4762515,
+      "lon": -0.2041347
+    },
+    {
+      "type": "node",
+      "id": 3202891301,
+      "lat": 51.4763241,
+      "lon": -0.2039952
+    },
+    {
+      "type": "node",
+      "id": 3202891302,
+      "lat": 51.4764352,
+      "lon": -0.2041669
+    },
+    {
+      "type": "node",
+      "id": 1289493483,
+      "lat": 51.4999338,
+      "lon": -0.1956946
+    },
+    {
+      "type": "node",
+      "id": 1289493491,
+      "lat": 51.4999091,
+      "lon": -0.1957716
+    },
+    {
+      "type": "node",
+      "id": 1289493496,
+      "lat": 51.4998623,
+      "lon": -0.1959071
+    },
+    {
+      "type": "node",
+      "id": 1289493497,
+      "lat": 51.4998477,
+      "lon": -0.195915
+    },
+    {
+      "type": "node",
+      "id": 1289493504,
+      "lat": 51.4996814,
+      "lon": -0.1958084
+    },
+    {
+      "type": "node",
+      "id": 1289493506,
+      "lat": 51.4997655,
+      "lon": -0.1955689
+    },
+    {
+      "type": "node",
+      "id": 1289493507,
+      "lat": 51.4997859,
+      "lon": -0.1955884
+    },
+    {
+      "type": "node",
+      "id": 1289493508,
+      "lat": 51.4997941,
+      "lon": -0.1955613
+    },
+    {
+      "type": "node",
+      "id": 1759071594,
+      "lat": 51.4996512,
+      "lon": -0.1961075
+    },
+    {
+      "type": "node",
+      "id": 1759071596,
+      "lat": 51.4997248,
+      "lon": -0.1961803
+    },
+    {
+      "type": "node",
+      "id": 1931944249,
+      "lat": 51.4995225,
+      "lon": -0.1960768
+    },
+    {
+      "type": "node",
+      "id": 1931944255,
+      "lat": 51.4995478,
+      "lon": -0.1960072
+    },
+    {
+      "type": "node",
+      "id": 1931944291,
+      "lat": 51.4997006,
+      "lon": -0.1962399
+    },
+    {
+      "type": "node",
+      "id": 1931944293,
+      "lat": 51.4997395,
+      "lon": -0.1958456
+    },
+    {
+      "type": "node",
+      "id": 1931944297,
+      "lat": 51.4998288,
+      "lon": -0.1955944
+    },
+    {
+      "type": "node",
+      "id": 1360312213,
+      "lat": 51.4895777,
+      "lon": -0.1754255
+    },
+    {
+      "type": "node",
+      "id": 1360312216,
+      "lat": 51.4896284,
+      "lon": -0.1755248
+    },
+    {
+      "type": "node",
+      "id": 1360312218,
+      "lat": 51.4896528,
+      "lon": -0.1753264
+    },
+    {
+      "type": "node",
+      "id": 1360312222,
+      "lat": 51.4897035,
+      "lon": -0.1754257
+    },
+    {
+      "type": "node",
+      "id": 1668506633,
+      "lat": 51.4942418,
+      "lon": -0.1734505
+    },
+    {
+      "type": "node",
+      "id": 1668506640,
+      "lat": 51.4942781,
+      "lon": -0.1732921
+    },
+    {
+      "type": "node",
+      "id": 1668506652,
+      "lat": 51.4943206,
+      "lon": -0.1735128
+    },
+    {
+      "type": "node",
+      "id": 1668506655,
+      "lat": 51.4943244,
+      "lon": -0.1734868
+    },
+    {
+      "type": "node",
+      "id": 1668506679,
+      "lat": 51.4943938,
+      "lon": -0.173545
+    },
+    {
+      "type": "node",
+      "id": 1668506682,
+      "lat": 51.4944345,
+      "lon": -0.1733609
+    },
+    {
+      "type": "node",
+      "id": 3051147759,
+      "lat": 51.4632173,
+      "lon": -0.1134906
+    },
+    {
+      "type": "node",
+      "id": 3336222927,
+      "lat": 51.4631278,
+      "lon": -0.1134103
+    },
+    {
+      "type": "node",
+      "id": 3336222928,
+      "lat": 51.4631427,
+      "lon": -0.1135325
+    },
+    {
+      "type": "node",
+      "id": 3336222933,
+      "lat": 51.4632034,
+      "lon": -0.1133706
+    },
+    {
+      "type": "node",
+      "id": 2906869701,
+      "lat": 51.4946618,
+      "lon": -0.141112
+    },
+    {
+      "type": "node",
+      "id": 4462559005,
+      "lat": 51.4947282,
+      "lon": -0.1409412
+    },
+    {
+      "type": "node",
+      "id": 4462564758,
+      "lat": 51.4946254,
+      "lon": -0.1410766
+    },
+    {
+      "type": "node",
+      "id": 4462564764,
+      "lat": 51.4946809,
+      "lon": -0.1409312
+    },
+    {
+      "type": "node",
+      "id": 4462564766,
+      "lat": 51.4947043,
+      "lon": -0.1409152
+    },
+    {
+      "type": "node",
+      "id": 5201204585,
+      "lat": 51.4960325,
+      "lon": -0.1402715
+    },
+    {
+      "type": "node",
+      "id": 5201204586,
+      "lat": 51.4960721,
+      "lon": -0.1401566
+    },
+    {
+      "type": "node",
+      "id": 5201204587,
+      "lat": 51.4959976,
+      "lon": -0.1400902
+    },
+    {
+      "type": "node",
+      "id": 5201204588,
+      "lat": 51.4959579,
+      "lon": -0.1402051
+    },
+    {
+      "type": "node",
+      "id": 1283749667,
+      "lat": 51.4967222,
+      "lon": -0.1337735
+    },
+    {
+      "type": "node",
+      "id": 1283749674,
+      "lat": 51.4966904,
+      "lon": -0.1337618
+    },
+    {
+      "type": "node",
+      "id": 1283749680,
+      "lat": 51.4966689,
+      "lon": -0.1339752
+    },
+    {
+      "type": "node",
+      "id": 1283749681,
+      "lat": 51.49669,
+      "lon": -0.1339754
+    },
+    {
+      "type": "node",
+      "id": 1283749682,
+      "lat": 51.4967126,
+      "lon": -0.1339213
+    },
+    {
+      "type": "node",
+      "id": 5123501419,
+      "lat": 51.4966948,
+      "lon": -0.1339203
+    },
+    {
+      "type": "node",
+      "id": 585209836,
+      "lat": 51.4183358,
+      "lon": -0.0827703
+    },
+    {
+      "type": "node",
+      "id": 2045922606,
+      "lat": 51.4183988,
+      "lon": -0.0828041
+    },
+    {
+      "type": "node",
+      "id": 2045922609,
+      "lat": 51.4183992,
+      "lon": -0.0824825
+    },
+    {
+      "type": "node",
+      "id": 2045922615,
+      "lat": 51.4184577,
+      "lon": -0.0825164
+    },
+    {
+      "type": "node",
+      "id": 1403152003,
+      "lat": 51.4529738,
+      "lon": -0.0998383
+    },
+    {
+      "type": "node",
+      "id": 1403152004,
+      "lat": 51.4529778,
+      "lon": -0.0999114
+    },
+    {
+      "type": "node",
+      "id": 1403152007,
+      "lat": 51.4529831,
+      "lon": -0.1005079
+    },
+    {
+      "type": "node",
+      "id": 1403152008,
+      "lat": 51.4529838,
+      "lon": -0.1004338
+    },
+    {
+      "type": "node",
+      "id": 1403152021,
+      "lat": 51.4530634,
+      "lon": -0.0998257
+    },
+    {
+      "type": "node",
+      "id": 1403152022,
+      "lat": 51.4530644,
+      "lon": -0.0998452
+    },
+    {
+      "type": "node",
+      "id": 1403152029,
+      "lat": 51.4530766,
+      "lon": -0.1004547
+    },
+    {
+      "type": "node",
+      "id": 1403152030,
+      "lat": 51.4530768,
+      "lon": -0.1004361
+    },
+    {
+      "type": "node",
+      "id": 1403152041,
+      "lat": 51.4531276,
+      "lon": -0.0998363
+    },
+    {
+      "type": "node",
+      "id": 1403152043,
+      "lat": 51.4531306,
+      "lon": -0.0998899
+    },
+    {
+      "type": "node",
+      "id": 1403152046,
+      "lat": 51.4531388,
+      "lon": -0.1005118
+    },
+    {
+      "type": "node",
+      "id": 1403152048,
+      "lat": 51.4531394,
+      "lon": -0.1004563
+    },
+    {
+      "type": "node",
+      "id": 771243210,
+      "lat": 51.4575864,
+      "lon": -0.0736328
+    },
+    {
+      "type": "node",
+      "id": 771243537,
+      "lat": 51.4575965,
+      "lon": -0.0737016
+    },
+    {
+      "type": "node",
+      "id": 771244063,
+      "lat": 51.4574728,
+      "lon": -0.0736753
+    },
+    {
+      "type": "node",
+      "id": 771244301,
+      "lat": 51.4574829,
+      "lon": -0.0737442
+    },
+    {
+      "type": "node",
+      "id": 776334680,
+      "lat": 51.4600773,
+      "lon": -0.0755093
+    },
+    {
+      "type": "node",
+      "id": 776334876,
+      "lat": 51.4601437,
+      "lon": -0.0753829
+    },
+    {
+      "type": "node",
+      "id": 776335415,
+      "lat": 51.4600891,
+      "lon": -0.0753709
+    },
+    {
+      "type": "node",
+      "id": 776336384,
+      "lat": 51.4601319,
+      "lon": -0.0755213
+    },
+    {
+      "type": "node",
+      "id": 866962693,
+      "lat": 51.467633,
+      "lon": -0.0721844
+    },
+    {
+      "type": "node",
+      "id": 866963299,
+      "lat": 51.4675534,
+      "lon": -0.072327
+    },
+    {
+      "type": "node",
+      "id": 866963325,
+      "lat": 51.4676418,
+      "lon": -0.0722493
+    },
+    {
+      "type": "node",
+      "id": 866963977,
+      "lat": 51.4676293,
+      "lon": -0.0722474
+    },
+    {
+      "type": "node",
+      "id": 866964373,
+      "lat": 51.4676214,
+      "lon": -0.0723431
+    },
+    {
+      "type": "node",
+      "id": 866964837,
+      "lat": 51.4675775,
+      "lon": -0.0721702
+    },
+    {
+      "type": "node",
+      "id": 3755578028,
+      "lat": 51.4763616,
+      "lon": -0.025962
+    },
+    {
+      "type": "node",
+      "id": 3755578029,
+      "lat": 51.4763656,
+      "lon": -0.0260969
+    },
+    {
+      "type": "node",
+      "id": 3755578031,
+      "lat": 51.4764017,
+      "lon": -0.025959
+    },
+    {
+      "type": "node",
+      "id": 3755578032,
+      "lat": 51.4764056,
+      "lon": -0.0260939
+    },
+    {
+      "type": "node",
+      "id": 1704593687,
+      "lat": 51.481621,
+      "lon": -0.0096862
+    },
+    {
+      "type": "node",
+      "id": 1704593701,
+      "lat": 51.481616,
+      "lon": -0.0097586
+    },
+    {
+      "type": "node",
+      "id": 1704593720,
+      "lat": 51.4817472,
+      "lon": -0.0098759
+    },
+    {
+      "type": "node",
+      "id": 1704593732,
+      "lat": 51.4816466,
+      "lon": -0.0097074
+    },
+    {
+      "type": "node",
+      "id": 1704593737,
+      "lat": 51.4816728,
+      "lon": -0.0098129
+    },
+    {
+      "type": "node",
+      "id": 1704593779,
+      "lat": 51.4817711,
+      "lon": -0.0098107
+    },
+    {
+      "type": "node",
+      "id": 1727000248,
+      "lat": 51.4777149,
+      "lon": -0.0116629
+    },
+    {
+      "type": "node",
+      "id": 1727000250,
+      "lat": 51.4777179,
+      "lon": -0.011597
+    },
+    {
+      "type": "node",
+      "id": 1727000254,
+      "lat": 51.4777364,
+      "lon": -0.0116377
+    },
+    {
+      "type": "node",
+      "id": 1727000255,
+      "lat": 51.4777377,
+      "lon": -0.0115737
+    },
+    {
+      "type": "node",
+      "id": 1727000263,
+      "lat": 51.4778043,
+      "lon": -0.0118591
+    },
+    {
+      "type": "node",
+      "id": 1727000268,
+      "lat": 51.4778456,
+      "lon": -0.0118106
+    },
+    {
+      "type": "node",
+      "id": 1727068695,
+      "lat": 51.481621,
+      "lon": -0.0097015
+    },
+    {
+      "type": "node",
+      "id": 1727140421,
+      "lat": 51.4818095,
+      "lon": -0.01021
+    },
+    {
+      "type": "node",
+      "id": 2562131124,
+      "lat": 51.4817862,
+      "lon": -0.0105186
+    },
+    {
+      "type": "node",
+      "id": 4708915507,
+      "lat": 51.4817993,
+      "lon": -0.0104161
+    },
+    {
+      "type": "node",
+      "id": 4708915508,
+      "lat": 51.481805,
+      "lon": -0.0103524
+    },
+    {
+      "type": "node",
+      "id": 1727140445,
+      "lat": 51.4818992,
+      "lon": -0.0101763
+    },
+    {
+      "type": "node",
+      "id": 1727140450,
+      "lat": 51.4818984,
+      "lon": -0.0105903
+    },
+    {
+      "type": "node",
+      "id": 1718445835,
+      "lat": 51.5067159,
+      "lon": -0.2074827
+    },
+    {
+      "type": "node",
+      "id": 1718446023,
+      "lat": 51.5067488,
+      "lon": -0.2073712
+    },
+    {
+      "type": "node",
+      "id": 1718446099,
+      "lat": 51.5067778,
+      "lon": -0.2075329
+    },
+    {
+      "type": "node",
+      "id": 1718446172,
+      "lat": 51.5068417,
+      "lon": -0.2075869
+    },
+    {
+      "type": "node",
+      "id": 1718446186,
+      "lat": 51.5068786,
+      "lon": -0.2076193
+    },
+    {
+      "type": "node",
+      "id": 1718446191,
+      "lat": 51.5068894,
+      "lon": -0.2075837
+    },
+    {
+      "type": "node",
+      "id": 1718446265,
+      "lat": 51.5069395,
+      "lon": -0.2076197
+    },
+    {
+      "type": "node",
+      "id": 1718446277,
+      "lat": 51.5069637,
+      "lon": -0.2075279
+    },
+    {
+      "type": "node",
+      "id": 3620978154,
+      "lat": 51.5094595,
+      "lon": -0.1970975
+    },
+    {
+      "type": "node",
+      "id": 3620978156,
+      "lat": 51.5094874,
+      "lon": -0.1968656
+    },
+    {
+      "type": "node",
+      "id": 3620978159,
+      "lat": 51.5095054,
+      "lon": -0.1971117
+    },
+    {
+      "type": "node",
+      "id": 3620978161,
+      "lat": 51.5095333,
+      "lon": -0.1968798
+    },
+    {
+      "type": "node",
+      "id": 1280209930,
+      "lat": 51.5046736,
+      "lon": -0.1933902
+    },
+    {
+      "type": "node",
+      "id": 1280209932,
+      "lat": 51.5047216,
+      "lon": -0.1934154
+    },
+    {
+      "type": "node",
+      "id": 1280209942,
+      "lat": 51.5047001,
+      "lon": -0.1935214
+    },
+    {
+      "type": "node",
+      "id": 1280209943,
+      "lat": 51.5046492,
+      "lon": -0.1934947
+    },
+    {
+      "type": "node",
+      "id": 1280209944,
+      "lat": 51.5046707,
+      "lon": -0.1933887
+    },
+    {
+      "type": "node",
+      "id": 3741084152,
+      "lat": 51.5092112,
+      "lon": -0.1960924
+    },
+    {
+      "type": "node",
+      "id": 3741084155,
+      "lat": 51.5092288,
+      "lon": -0.1962185
+    },
+    {
+      "type": "node",
+      "id": 3741084158,
+      "lat": 51.5092506,
+      "lon": -0.1963044
+    },
+    {
+      "type": "node",
+      "id": 3741084159,
+      "lat": 51.509252,
+      "lon": -0.1961059
+    },
+    {
+      "type": "node",
+      "id": 3741084163,
+      "lat": 51.5093069,
+      "lon": -0.1961392
+    },
+    {
+      "type": "node",
+      "id": 3741084164,
+      "lat": 51.5093094,
+      "lon": -0.1961274
+    },
+    {
+      "type": "node",
+      "id": 3741084165,
+      "lat": 51.5093107,
+      "lon": -0.1961592
+    },
+    {
+      "type": "node",
+      "id": 3741084166,
+      "lat": 51.5093198,
+      "lon": -0.1963303
+    },
+    {
+      "type": "node",
+      "id": 3741084167,
+      "lat": 51.5093283,
+      "lon": -0.196164
+    },
+    {
+      "type": "node",
+      "id": 3741084168,
+      "lat": 51.5093386,
+      "lon": -0.1962129
+    },
+    {
+      "type": "node",
+      "id": 3049649080,
+      "lat": 51.5197767,
+      "lon": -0.1600494
+    },
+    {
+      "type": "node",
+      "id": 3049649081,
+      "lat": 51.519791,
+      "lon": -0.1599739
+    },
+    {
+      "type": "node",
+      "id": 3049649087,
+      "lat": 51.5198672,
+      "lon": -0.160093
+    },
+    {
+      "type": "node",
+      "id": 3049649089,
+      "lat": 51.5198814,
+      "lon": -0.1600153
+    },
+    {
+      "type": "node",
+      "id": 3642452310,
+      "lat": 51.5322198,
+      "lon": -0.2025235
+    },
+    {
+      "type": "node",
+      "id": 3642452311,
+      "lat": 51.5322327,
+      "lon": -0.2025819
+    },
+    {
+      "type": "node",
+      "id": 3642452314,
+      "lat": 51.5322984,
+      "lon": -0.2024786
+    },
+    {
+      "type": "node",
+      "id": 3642452315,
+      "lat": 51.5323113,
+      "lon": -0.202537
+    },
+    {
+      "type": "node",
+      "id": 1133831120,
+      "lat": 51.53581,
+      "lon": -0.2050186
+    },
+    {
+      "type": "node",
+      "id": 1133831122,
+      "lat": 51.5358235,
+      "lon": -0.2049802
+    },
+    {
+      "type": "node",
+      "id": 1133831143,
+      "lat": 51.5357948,
+      "lon": -0.2052668
+    },
+    {
+      "type": "node",
+      "id": 1133831174,
+      "lat": 51.5357369,
+      "lon": -0.2052268
+    },
+    {
+      "type": "node",
+      "id": 1133831178,
+      "lat": 51.5358745,
+      "lon": -0.2050357
+    },
+    {
+      "type": "node",
+      "id": 1237363659,
+      "lat": 51.5387688,
+      "lon": -0.194699
+    },
+    {
+      "type": "node",
+      "id": 1237363678,
+      "lat": 51.5386311,
+      "lon": -0.1948125
+    },
+    {
+      "type": "node",
+      "id": 1237363688,
+      "lat": 51.5386923,
+      "lon": -0.1948791
+    },
+    {
+      "type": "node",
+      "id": 1237363691,
+      "lat": 51.5387079,
+      "lon": -0.194632
+    },
+    {
+      "type": "node",
+      "id": 4646197348,
+      "lat": 51.5410091,
+      "lon": -0.2022684
+    },
+    {
+      "type": "node",
+      "id": 4646197349,
+      "lat": 51.5409577,
+      "lon": -0.202197
+    },
+    {
+      "type": "node",
+      "id": 4646197350,
+      "lat": 51.5410245,
+      "lon": -0.2022899
+    },
+    {
+      "type": "node",
+      "id": 4646197351,
+      "lat": 51.5410172,
+      "lon": -0.2023035
+    },
+    {
+      "type": "node",
+      "id": 4646197352,
+      "lat": 51.5410768,
+      "lon": -0.2023865
+    },
+    {
+      "type": "node",
+      "id": 4646197353,
+      "lat": 51.5410547,
+      "lon": -0.2024277
+    },
+    {
+      "type": "node",
+      "id": 4646197354,
+      "lat": 51.5409486,
+      "lon": -0.2022801
+    },
+    {
+      "type": "node",
+      "id": 3285503522,
+      "lat": 51.5506449,
+      "lon": -0.1916916
+    },
+    {
+      "type": "node",
+      "id": 3285503523,
+      "lat": 51.5506526,
+      "lon": -0.191542
+    },
+    {
+      "type": "node",
+      "id": 3285503524,
+      "lat": 51.5506927,
+      "lon": -0.1917338
+    },
+    {
+      "type": "node",
+      "id": 3285503525,
+      "lat": 51.5507031,
+      "lon": -0.1915559
+    },
+    {
+      "type": "node",
+      "id": 4881604241,
+      "lat": 51.5506594,
+      "lon": -0.1917276
+    },
+    {
+      "type": "node",
+      "id": 4881604242,
+      "lat": 51.5506611,
+      "lon": -0.1916953
+    },
+    {
+      "type": "node",
+      "id": 1190640588,
+      "lat": 51.546904,
+      "lon": -0.1798447
+    },
+    {
+      "type": "node",
+      "id": 1190640590,
+      "lat": 51.5469443,
+      "lon": -0.1800383
+    },
+    {
+      "type": "node",
+      "id": 1364333460,
+      "lat": 51.5469113,
+      "lon": -0.17988
+    },
+    {
+      "type": "node",
+      "id": 1364333464,
+      "lat": 51.5469622,
+      "lon": -0.1800514
+    },
+    {
+      "type": "node",
+      "id": 1364375840,
+      "lat": 51.5468423,
+      "lon": -0.1800146
+    },
+    {
+      "type": "node",
+      "id": 1364375854,
+      "lat": 51.5469356,
+      "lon": -0.1801019
+    },
+    {
+      "type": "node",
+      "id": 2774662832,
+      "lat": 51.5068109,
+      "lon": -0.1465281
+    },
+    {
+      "type": "node",
+      "id": 2774662833,
+      "lat": 51.5068077,
+      "lon": -0.1465509
+    },
+    {
+      "type": "node",
+      "id": 2774662834,
+      "lat": 51.5068162,
+      "lon": -0.146489
+    },
+    {
+      "type": "node",
+      "id": 2774662835,
+      "lat": 51.506721,
+      "lon": -0.1465197
+    },
+    {
+      "type": "node",
+      "id": 2774662836,
+      "lat": 51.5067296,
+      "lon": -0.1464576
+    },
+    {
+      "type": "node",
+      "id": 3192293266,
+      "lat": 51.5069658,
+      "lon": -0.1466168
+    },
+    {
+      "type": "node",
+      "id": 3192293267,
+      "lat": 51.5069852,
+      "lon": -0.1464938
+    },
+    {
+      "type": "node",
+      "id": 3192293269,
+      "lat": 51.507044,
+      "lon": -0.1466445
+    },
+    {
+      "type": "node",
+      "id": 3192293270,
+      "lat": 51.507059,
+      "lon": -0.1466521
+    },
+    {
+      "type": "node",
+      "id": 3192293271,
+      "lat": 51.5070796,
+      "lon": -0.1465662
+    },
+    {
+      "type": "node",
+      "id": 3476508127,
+      "lat": 51.5067652,
+      "lon": -0.1464705
+    },
+    {
+      "type": "node",
+      "id": 5875270973,
+      "lat": 51.5069788,
+      "lon": -0.1465346
+    },
+    {
+      "type": "node",
+      "id": 675936469,
+      "lat": 51.5092215,
+      "lon": -0.1358915
+    },
+    {
+      "type": "node",
+      "id": 1324710067,
+      "lat": 51.513114,
+      "lon": -0.1356496
+    },
+    {
+      "type": "node",
+      "id": 1324710160,
+      "lat": 51.5128246,
+      "lon": -0.1341621
+    },
+    {
+      "type": "node",
+      "id": 1330709154,
+      "lat": 51.512921,
+      "lon": -0.1342449
+    },
+    {
+      "type": "node",
+      "id": 1330788627,
+      "lat": 51.5131525,
+      "lon": -0.1356795
+    },
+    {
+      "type": "node",
+      "id": 1688535755,
+      "lat": 51.5128718,
+      "lon": -0.1340231
+    },
+    {
+      "type": "node",
+      "id": 2785528292,
+      "lat": 51.5130828,
+      "lon": -0.135751
+    },
+    {
+      "type": "node",
+      "id": 2938691512,
+      "lat": 51.5087593,
+      "lon": -0.1358254
+    },
+    {
+      "type": "node",
+      "id": 2938691513,
+      "lat": 51.5088375,
+      "lon": -0.1355925
+    },
+    {
+      "type": "node",
+      "id": 2938691516,
+      "lat": 51.5089238,
+      "lon": -0.1359649
+    },
+    {
+      "type": "node",
+      "id": 2938691517,
+      "lat": 51.5089515,
+      "lon": -0.1356922
+    },
+    {
+      "type": "node",
+      "id": 2938691520,
+      "lat": 51.5089786,
+      "lon": -0.1360109
+    },
+    {
+      "type": "node",
+      "id": 2938691523,
+      "lat": 51.5090103,
+      "lon": -0.1357436
+    },
+    {
+      "type": "node",
+      "id": 2938691524,
+      "lat": 51.5090268,
+      "lon": -0.1360552
+    },
+    {
+      "type": "node",
+      "id": 2938691529,
+      "lat": 51.5091012,
+      "lon": -0.1358231
+    },
+    {
+      "type": "node",
+      "id": 2938691531,
+      "lat": 51.5091085,
+      "lon": -0.1357837
+    },
+    {
+      "type": "node",
+      "id": 2938691532,
+      "lat": 51.5091387,
+      "lon": -0.136158
+    },
+    {
+      "type": "node",
+      "id": 4731045391,
+      "lat": 51.5131477,
+      "lon": -0.1356757
+    },
+    {
+      "type": "node",
+      "id": 4731045393,
+      "lat": 51.5131229,
+      "lon": -0.1357811
+    },
+    {
+      "type": "node",
+      "id": 5514875446,
+      "lat": 51.5129688,
+      "lon": -0.1341056
+    },
+    {
+      "type": "node",
+      "id": 1493328981,
+      "lat": 51.5203943,
+      "lon": -0.1519779
+    },
+    {
+      "type": "node",
+      "id": 1619464642,
+      "lat": 51.519974,
+      "lon": -0.1522975
+    },
+    {
+      "type": "node",
+      "id": 1619464644,
+      "lat": 51.5199806,
+      "lon": -0.1521693
+    },
+    {
+      "type": "node",
+      "id": 1619464646,
+      "lat": 51.5199877,
+      "lon": -0.1521703
+    },
+    {
+      "type": "node",
+      "id": 1619464652,
+      "lat": 51.5199899,
+      "lon": -0.1521275
+    },
+    {
+      "type": "node",
+      "id": 1619464653,
+      "lat": 51.5200003,
+      "lon": -0.1519254
+    },
+    {
+      "type": "node",
+      "id": 1619464657,
+      "lat": 51.5200372,
+      "lon": -0.1523059
+    },
+    {
+      "type": "node",
+      "id": 1619464659,
+      "lat": 51.5200565,
+      "lon": -0.1519329
+    },
+    {
+      "type": "node",
+      "id": 1619464692,
+      "lat": 51.5203816,
+      "lon": -0.1522238
+    },
+    {
+      "type": "node",
+      "id": 1619464693,
+      "lat": 51.5203861,
+      "lon": -0.1521369
+    },
+    {
+      "type": "node",
+      "id": 1619464694,
+      "lat": 51.5204301,
+      "lon": -0.1522303
+    },
+    {
+      "type": "node",
+      "id": 1619464695,
+      "lat": 51.520431,
+      "lon": -0.1522137
+    },
+    {
+      "type": "node",
+      "id": 1619464696,
+      "lat": 51.5204428,
+      "lon": -0.1519844
+    },
+    {
+      "type": "node",
+      "id": 1619464698,
+      "lat": 51.520489,
+      "lon": -0.1522214
+    },
+    {
+      "type": "node",
+      "id": 1619464699,
+      "lat": 51.5204906,
+      "lon": -0.1521894
+    },
+    {
+      "type": "node",
+      "id": 1619464700,
+      "lat": 51.5205008,
+      "lon": -0.1519921
+    },
+    {
+      "type": "node",
+      "id": 4036405865,
+      "lat": 51.5184495,
+      "lon": -0.1311032
+    },
+    {
+      "type": "node",
+      "id": 4036405867,
+      "lat": 51.5185217,
+      "lon": -0.1311774
+    },
+    {
+      "type": "node",
+      "id": 4222962192,
+      "lat": 51.5198158,
+      "lon": -0.1311077
+    },
+    {
+      "type": "node",
+      "id": 4222962203,
+      "lat": 51.5198324,
+      "lon": -0.1311263
+    },
+    {
+      "type": "node",
+      "id": 4222962215,
+      "lat": 51.5198611,
+      "lon": -0.1310992
+    },
+    {
+      "type": "node",
+      "id": 4222962222,
+      "lat": 51.5198687,
+      "lon": -0.1310817
+    },
+    {
+      "type": "node",
+      "id": 4222962236,
+      "lat": 51.5199092,
+      "lon": -0.1312124
+    },
+    {
+      "type": "node",
+      "id": 4222962239,
+      "lat": 51.5199152,
+      "lon": -0.1311987
+    },
+    {
+      "type": "node",
+      "id": 4222962249,
+      "lat": 51.5199293,
+      "lon": -0.1311661
+    },
+    {
+      "type": "node",
+      "id": 4222962251,
+      "lat": 51.5199341,
+      "lon": -0.1311551
+    },
+    {
+      "type": "node",
+      "id": 4230907503,
+      "lat": 51.5184611,
+      "lon": -0.1311518
+    },
+    {
+      "type": "node",
+      "id": 4230907504,
+      "lat": 51.5184652,
+      "lon": -0.1312438
+    },
+    {
+      "type": "node",
+      "id": 4230907506,
+      "lat": 51.518479,
+      "lon": -0.1311713
+    },
+    {
+      "type": "node",
+      "id": 4230907507,
+      "lat": 51.5184834,
+      "lon": -0.1312671
+    },
+    {
+      "type": "node",
+      "id": 4230907508,
+      "lat": 51.5184968,
+      "lon": -0.1311697
+    },
+    {
+      "type": "node",
+      "id": 4230907510,
+      "lat": 51.518508,
+      "lon": -0.1312108
+    },
+    {
+      "type": "node",
+      "id": 4243601444,
+      "lat": 51.5174925,
+      "lon": -0.131983
+    },
+    {
+      "type": "node",
+      "id": 4243601454,
+      "lat": 51.5175875,
+      "lon": -0.1320644
+    },
+    {
+      "type": "node",
+      "id": 4243601462,
+      "lat": 51.5176328,
+      "lon": -0.131601
+    },
+    {
+      "type": "node",
+      "id": 4243601467,
+      "lat": 51.5176983,
+      "lon": -0.131664
+    },
+    {
+      "type": "node",
+      "id": 4243601470,
+      "lat": 51.5177194,
+      "lon": -0.1316847
+    },
+    {
+      "type": "node",
+      "id": 495535876,
+      "lat": 51.5224833,
+      "lon": -0.1316305
+    },
+    {
+      "type": "node",
+      "id": 524095421,
+      "lat": 51.5222241,
+      "lon": -0.1322679
+    },
+    {
+      "type": "node",
+      "id": 1046521583,
+      "lat": 51.5226153,
+      "lon": -0.1317963
+    },
+    {
+      "type": "node",
+      "id": 1046521585,
+      "lat": 51.5223503,
+      "lon": -0.1324203
+    },
+    {
+      "type": "node",
+      "id": 1046521587,
+      "lat": 51.5222451,
+      "lon": -0.1322988
+    },
+    {
+      "type": "node",
+      "id": 1046521589,
+      "lat": 51.5226085,
+      "lon": -0.1317565
+    },
+    {
+      "type": "node",
+      "id": 1046521599,
+      "lat": 51.522238,
+      "lon": -0.1322914
+    },
+    {
+      "type": "node",
+      "id": 1046521601,
+      "lat": 51.5223593,
+      "lon": -0.1324258
+    },
+    {
+      "type": "node",
+      "id": 1046521602,
+      "lat": 51.5224975,
+      "lon": -0.1316447
+    },
+    {
+      "type": "node",
+      "id": 1046521603,
+      "lat": 51.5226353,
+      "lon": -0.1317686
+    },
+    {
+      "type": "node",
+      "id": 1046521604,
+      "lat": 51.5226335,
+      "lon": -0.1317605
+    },
+    {
+      "type": "node",
+      "id": 1046521606,
+      "lat": 51.522367,
+      "lon": -0.1324224
+    },
+    {
+      "type": "node",
+      "id": 1046521607,
+      "lat": 51.5223706,
+      "lon": -0.1324171
+    },
+    {
+      "type": "node",
+      "id": 1046521609,
+      "lat": 51.5226258,
+      "lon": -0.1317958
+    },
+    {
+      "type": "node",
+      "id": 1046521620,
+      "lat": 51.5223455,
+      "lon": -0.1324059
+    },
+    {
+      "type": "node",
+      "id": 1046521622,
+      "lat": 51.5226304,
+      "lon": -0.1317913
+    },
+    {
+      "type": "node",
+      "id": 1046521624,
+      "lat": 51.5225227,
+      "lon": -0.1316698
+    },
+    {
+      "type": "node",
+      "id": 1046521627,
+      "lat": 51.5223728,
+      "lon": -0.1323953
+    },
+    {
+      "type": "node",
+      "id": 1046521629,
+      "lat": 51.5225069,
+      "lon": -0.1316347
+    },
+    {
+      "type": "node",
+      "id": 1046521630,
+      "lat": 51.5226206,
+      "lon": -0.1317975
+    },
+    {
+      "type": "node",
+      "id": 1046521631,
+      "lat": 51.5223457,
+      "lon": -0.132398
+    },
+    {
+      "type": "node",
+      "id": 1046521641,
+      "lat": 51.5223624,
+      "lon": -0.1324253
+    },
+    {
+      "type": "node",
+      "id": 1046521644,
+      "lat": 51.522373,
+      "lon": -0.1324101
+    },
+    {
+      "type": "node",
+      "id": 1046521648,
+      "lat": 51.5226337,
+      "lon": -0.1317845
+    },
+    {
+      "type": "node",
+      "id": 1046521650,
+      "lat": 51.5223472,
+      "lon": -0.1324142
+    },
+    {
+      "type": "node",
+      "id": 1046521653,
+      "lat": 51.5226178,
+      "lon": -0.1317483
+    },
+    {
+      "type": "node",
+      "id": 1046521655,
+      "lat": 51.5223545,
+      "lon": -0.1324243
+    },
+    {
+      "type": "node",
+      "id": 1046521657,
+      "lat": 51.5223711,
+      "lon": -0.1323906
+    },
+    {
+      "type": "node",
+      "id": 1046521660,
+      "lat": 51.5222368,
+      "lon": -0.1322814
+    },
+    {
+      "type": "node",
+      "id": 1046521673,
+      "lat": 51.5225163,
+      "lon": -0.1316404
+    },
+    {
+      "type": "node",
+      "id": 1046521675,
+      "lat": 51.5226301,
+      "lon": -0.1317539
+    },
+    {
+      "type": "node",
+      "id": 1046521678,
+      "lat": 51.5226353,
+      "lon": -0.1317771
+    },
+    {
+      "type": "node",
+      "id": 1046521681,
+      "lat": 51.5226127,
+      "lon": -0.1317511
+    },
+    {
+      "type": "node",
+      "id": 1046521684,
+      "lat": 51.5226231,
+      "lon": -0.1317485
+    },
+    {
+      "type": "node",
+      "id": 1046521686,
+      "lat": 51.5225222,
+      "lon": -0.1316543
+    },
+    {
+      "type": "node",
+      "id": 1046521689,
+      "lat": 51.5223737,
+      "lon": -0.1324023
+    },
+    {
+      "type": "node",
+      "id": 1046521694,
+      "lat": 51.5226106,
+      "lon": -0.1317922
+    },
+    {
+      "type": "node",
+      "id": 1046521704,
+      "lat": 51.522254,
+      "lon": -0.1322997
+    },
+    {
+      "type": "node",
+      "id": 603129547,
+      "lat": 51.5114293,
+      "lon": -0.1258953
+    },
+    {
+      "type": "node",
+      "id": 616691988,
+      "lat": 51.5122611,
+      "lon": -0.1307513
+    },
+    {
+      "type": "node",
+      "id": 617424261,
+      "lat": 51.5120902,
+      "lon": -0.1261454
+    },
+    {
+      "type": "node",
+      "id": 617424263,
+      "lat": 51.5118074,
+      "lon": -0.1259867
+    },
+    {
+      "type": "node",
+      "id": 617424266,
+      "lat": 51.5118859,
+      "lon": -0.1258051
+    },
+    {
+      "type": "node",
+      "id": 617424269,
+      "lat": 51.5121483,
+      "lon": -0.1259859
+    },
+    {
+      "type": "node",
+      "id": 670484433,
+      "lat": 51.51234,
+      "lon": -0.1308429
+    },
+    {
+      "type": "node",
+      "id": 1115501198,
+      "lat": 51.5144521,
+      "lon": -0.1298399
+    },
+    {
+      "type": "node",
+      "id": 1115501199,
+      "lat": 51.5142534,
+      "lon": -0.1303592
+    },
+    {
+      "type": "node",
+      "id": 1115501200,
+      "lat": 51.514014,
+      "lon": -0.1302683
+    },
+    {
+      "type": "node",
+      "id": 1115501201,
+      "lat": 51.5140891,
+      "lon": -0.1296965
+    },
+    {
+      "type": "node",
+      "id": 1597687538,
+      "lat": 51.51203,
+      "lon": -0.1261184
+    },
+    {
+      "type": "node",
+      "id": 1857917767,
+      "lat": 51.5118165,
+      "lon": -0.1260195
+    },
+    {
+      "type": "node",
+      "id": 1857917775,
+      "lat": 51.5119342,
+      "lon": -0.1258476
+    },
+    {
+      "type": "node",
+      "id": 1937332544,
+      "lat": 51.5112552,
+      "lon": -0.1261312
+    },
+    {
+      "type": "node",
+      "id": 1937332545,
+      "lat": 51.5112567,
+      "lon": -0.1261157
+    },
+    {
+      "type": "node",
+      "id": 1937332549,
+      "lat": 51.5112674,
+      "lon": -0.1260241
+    },
+    {
+      "type": "node",
+      "id": 1937332555,
+      "lat": 51.5112764,
+      "lon": -0.1259343
+    },
+    {
+      "type": "node",
+      "id": 1937332568,
+      "lat": 51.5112854,
+      "lon": -0.1261381
+    },
+    {
+      "type": "node",
+      "id": 1937332594,
+      "lat": 51.511345,
+      "lon": -0.1261453
+    },
+    {
+      "type": "node",
+      "id": 1937332599,
+      "lat": 51.5113655,
+      "lon": -0.1261329
+    },
+    {
+      "type": "node",
+      "id": 1937332616,
+      "lat": 51.511469,
+      "lon": -0.1260694
+    },
+    {
+      "type": "node",
+      "id": 2833445961,
+      "lat": 51.5140621,
+      "lon": -0.1299237
+    },
+    {
+      "type": "node",
+      "id": 2833445962,
+      "lat": 51.5140675,
+      "lon": -0.1298457
+    },
+    {
+      "type": "node",
+      "id": 2833445963,
+      "lat": 51.5140751,
+      "lon": -0.1299236
+    },
+    {
+      "type": "node",
+      "id": 2833445964,
+      "lat": 51.5140859,
+      "lon": -0.1298506
+    },
+    {
+      "type": "node",
+      "id": 2835483008,
+      "lat": 51.5140876,
+      "lon": -0.1303043
+    },
+    {
+      "type": "node",
+      "id": 3409712211,
+      "lat": 51.514114,
+      "lon": -0.1297082
+    },
+    {
+      "type": "node",
+      "id": 3409712212,
+      "lat": 51.5142432,
+      "lon": -0.129758
+    },
+    {
+      "type": "node",
+      "id": 3409712213,
+      "lat": 51.5143858,
+      "lon": -0.1298156
+    },
+    {
+      "type": "node",
+      "id": 3557236670,
+      "lat": 51.5122534,
+      "lon": -0.1307759
+    },
+    {
+      "type": "node",
+      "id": 3557236671,
+      "lat": 51.5122802,
+      "lon": -0.130709
+    },
+    {
+      "type": "node",
+      "id": 3557236683,
+      "lat": 51.5123529,
+      "lon": -0.130808
+    },
+    {
+      "type": "node",
+      "id": 3557236685,
+      "lat": 51.5123641,
+      "lon": -0.1307775
+    },
+    {
+      "type": "node",
+      "id": 4784158366,
+      "lat": 51.5129376,
+      "lon": -0.1254433
+    },
+    {
+      "type": "node",
+      "id": 4784158369,
+      "lat": 51.5129967,
+      "lon": -0.1255199
+    },
+    {
+      "type": "node",
+      "id": 4784158370,
+      "lat": 51.5129078,
+      "lon": -0.1254046
+    },
+    {
+      "type": "node",
+      "id": 4784158371,
+      "lat": 51.5130159,
+      "lon": -0.1251894
+    },
+    {
+      "type": "node",
+      "id": 4784158372,
+      "lat": 51.5131048,
+      "lon": -0.1253047
+    },
+    {
+      "type": "node",
+      "id": 4784457215,
+      "lat": 51.5130604,
+      "lon": -0.1252471
+    },
+    {
+      "type": "node",
+      "id": 5444031618,
+      "lat": 51.5118487,
+      "lon": -0.1259002
+    },
+    {
+      "type": "node",
+      "id": 5451506223,
+      "lat": 51.5113539,
+      "lon": -0.1259403
+    },
+    {
+      "type": "node",
+      "id": 857556840,
+      "lat": 51.5100184,
+      "lon": -0.1220694
+    },
+    {
+      "type": "node",
+      "id": 857556895,
+      "lat": 51.5101049,
+      "lon": -0.1220887
+    },
+    {
+      "type": "node",
+      "id": 857557184,
+      "lat": 51.5100435,
+      "lon": -0.122008
+    },
+    {
+      "type": "node",
+      "id": 857557195,
+      "lat": 51.510084,
+      "lon": -0.1221387
+    },
+    {
+      "type": "node",
+      "id": 4274551723,
+      "lat": 51.5035469,
+      "lon": -0.1130395
+    },
+    {
+      "type": "node",
+      "id": 4274551725,
+      "lat": 51.5035609,
+      "lon": -0.1131099
+    },
+    {
+      "type": "node",
+      "id": 4274551728,
+      "lat": 51.5035789,
+      "lon": -0.1132006
+    },
+    {
+      "type": "node",
+      "id": 4274551731,
+      "lat": 51.5035947,
+      "lon": -0.1132806
+    },
+    {
+      "type": "node",
+      "id": 4274551732,
+      "lat": 51.5036214,
+      "lon": -0.1130019
+    },
+    {
+      "type": "node",
+      "id": 4274551740,
+      "lat": 51.5036632,
+      "lon": -0.1132471
+    },
+    {
+      "type": "node",
+      "id": 1045151609,
+      "lat": 51.502896,
+      "lon": -0.1070112
+    },
+    {
+      "type": "node",
+      "id": 1045151784,
+      "lat": 51.5029858,
+      "lon": -0.1071818
+    },
+    {
+      "type": "node",
+      "id": 1045152021,
+      "lat": 51.5030099,
+      "lon": -0.1071102
+    },
+    {
+      "type": "node",
+      "id": 1045152071,
+      "lat": 51.5028719,
+      "lon": -0.1070828
+    },
+    {
+      "type": "node",
+      "id": 494923294,
+      "lat": 51.5197925,
+      "lon": -0.1310455
+    },
+    {
+      "type": "node",
+      "id": 874823361,
+      "lat": 51.5171279,
+      "lon": -0.1272177
+    },
+    {
+      "type": "node",
+      "id": 949076144,
+      "lat": 51.5175023,
+      "lon": -0.1271186
+    },
+    {
+      "type": "node",
+      "id": 1272958486,
+      "lat": 51.5174559,
+      "lon": -0.1272577
+    },
+    {
+      "type": "node",
+      "id": 1700106564,
+      "lat": 51.5169937,
+      "lon": -0.1273891
+    },
+    {
+      "type": "node",
+      "id": 1700106570,
+      "lat": 51.5169987,
+      "lon": -0.1273934
+    },
+    {
+      "type": "node",
+      "id": 1700106671,
+      "lat": 51.5170567,
+      "lon": -0.1272038
+    },
+    {
+      "type": "node",
+      "id": 1937420221,
+      "lat": 51.5170531,
+      "lon": -0.1274404
+    },
+    {
+      "type": "node",
+      "id": 1937420223,
+      "lat": 51.5170689,
+      "lon": -0.1271677
+    },
+    {
+      "type": "node",
+      "id": 4036405868,
+      "lat": 51.5185259,
+      "lon": -0.1309113
+    },
+    {
+      "type": "node",
+      "id": 4036405870,
+      "lat": 51.5185981,
+      "lon": -0.1309854
+    },
+    {
+      "type": "node",
+      "id": 4222962180,
+      "lat": 51.519782,
+      "lon": -0.1310698
+    },
+    {
+      "type": "node",
+      "id": 4222962189,
+      "lat": 51.5198069,
+      "lon": -0.1310124
+    },
+    {
+      "type": "node",
+      "id": 4222962204,
+      "lat": 51.5198335,
+      "lon": -0.1310682
+    },
+    {
+      "type": "node",
+      "id": 4222962207,
+      "lat": 51.5198411,
+      "lon": -0.1310508
+    },
+    {
+      "type": "node",
+      "id": 4230907517,
+      "lat": 51.518575,
+      "lon": -0.1309618
+    },
+    {
+      "type": "node",
+      "id": 4230907520,
+      "lat": 51.5185845,
+      "lon": -0.1309716
+    },
+    {
+      "type": "node",
+      "id": 4237213151,
+      "lat": 51.5173765,
+      "lon": -0.1271809
+    },
+    {
+      "type": "node",
+      "id": 4237213152,
+      "lat": 51.517398,
+      "lon": -0.1272069
+    },
+    {
+      "type": "node",
+      "id": 4237213153,
+      "lat": 51.5174212,
+      "lon": -0.1270546
+    },
+    {
+      "type": "node",
+      "id": 4237213154,
+      "lat": 51.5174315,
+      "lon": -0.1272391
+    },
+    {
+      "type": "node",
+      "id": 5350044739,
+      "lat": 51.5175172,
+      "lon": -0.1250365
+    },
+    {
+      "type": "node",
+      "id": 5350044740,
+      "lat": 51.5174836,
+      "lon": -0.1249993
+    },
+    {
+      "type": "node",
+      "id": 5350044754,
+      "lat": 51.5174313,
+      "lon": -0.1251211
+    },
+    {
+      "type": "node",
+      "id": 5350044755,
+      "lat": 51.5174649,
+      "lon": -0.1251583
+    },
+    {
+      "type": "node",
+      "id": 946920263,
+      "lat": 51.5183792,
+      "lon": -0.1241643
+    },
+    {
+      "type": "node",
+      "id": 946920378,
+      "lat": 51.5184604,
+      "lon": -0.1240614
+    },
+    {
+      "type": "node",
+      "id": 946920428,
+      "lat": 51.5185643,
+      "lon": -0.124172
+    },
+    {
+      "type": "node",
+      "id": 1700009635,
+      "lat": 51.5170628,
+      "lon": -0.1232641
+    },
+    {
+      "type": "node",
+      "id": 1700009636,
+      "lat": 51.5170743,
+      "lon": -0.12321
+    },
+    {
+      "type": "node",
+      "id": 1700009654,
+      "lat": 51.51714,
+      "lon": -0.1232825
+    },
+    {
+      "type": "node",
+      "id": 1700009657,
+      "lat": 51.5171452,
+      "lon": -0.1232259
+    },
+    {
+      "type": "node",
+      "id": 2536922086,
+      "lat": 51.5184227,
+      "lon": -0.1242126
+    },
+    {
+      "type": "node",
+      "id": 2536927624,
+      "lat": 51.5184784,
+      "lon": -0.1240805
+    },
+    {
+      "type": "node",
+      "id": 2823668261,
+      "lat": 51.5155037,
+      "lon": -0.1212558
+    },
+    {
+      "type": "node",
+      "id": 2823668267,
+      "lat": 51.5155824,
+      "lon": -0.1211413
+    },
+    {
+      "type": "node",
+      "id": 2823668268,
+      "lat": 51.5155835,
+      "lon": -0.1213976
+    },
+    {
+      "type": "node",
+      "id": 2823668270,
+      "lat": 51.5156162,
+      "lon": -0.1212746
+    },
+    {
+      "type": "node",
+      "id": 2823668275,
+      "lat": 51.5156389,
+      "lon": -0.1212416
+    },
+    {
+      "type": "node",
+      "id": 2823668276,
+      "lat": 51.5156396,
+      "lon": -0.1213161
+    },
+    {
+      "type": "node",
+      "id": 5335790842,
+      "lat": 51.5184339,
+      "lon": -0.1240327
+    },
+    {
+      "type": "node",
+      "id": 5339078722,
+      "lat": 51.5183879,
+      "lon": -0.1241434
+    },
+    {
+      "type": "node",
+      "id": 5339386812,
+      "lat": 51.5186109,
+      "lon": -0.1242253
+    },
+    {
+      "type": "node",
+      "id": 5339386813,
+      "lat": 51.5185528,
+      "lon": -0.1243552
+    },
+    {
+      "type": "node",
+      "id": 5339389022,
+      "lat": 51.5185256,
+      "lon": -0.1241308
+    },
+    {
+      "type": "node",
+      "id": 5339389023,
+      "lat": 51.5184686,
+      "lon": -0.1242634
+    },
+    {
+      "type": "node",
+      "id": 2939843125,
+      "lat": 51.5254095,
+      "lon": -0.1251472
+    },
+    {
+      "type": "node",
+      "id": 2939843126,
+      "lat": 51.5253809,
+      "lon": -0.1252931
+    },
+    {
+      "type": "node",
+      "id": 2939843127,
+      "lat": 51.5254532,
+      "lon": -0.1251713
+    },
+    {
+      "type": "node",
+      "id": 2939843128,
+      "lat": 51.5254231,
+      "lon": -0.1253165
+    },
+    {
+      "type": "node",
+      "id": 2939860820,
+      "lat": 51.5259693,
+      "lon": -0.1253856
+    },
+    {
+      "type": "node",
+      "id": 2939860821,
+      "lat": 51.525943,
+      "lon": -0.1255407
+    },
+    {
+      "type": "node",
+      "id": 2939860822,
+      "lat": 51.5260362,
+      "lon": -0.1254214
+    },
+    {
+      "type": "node",
+      "id": 2939860823,
+      "lat": 51.5260034,
+      "lon": -0.1255738
+    },
+    {
+      "type": "node",
+      "id": 3052238449,
+      "lat": 51.5221531,
+      "lon": -0.1187409
+    },
+    {
+      "type": "node",
+      "id": 3052238450,
+      "lat": 51.5221131,
+      "lon": -0.1189188
+    },
+    {
+      "type": "node",
+      "id": 3052238451,
+      "lat": 51.5221033,
+      "lon": -0.1187144
+    },
+    {
+      "type": "node",
+      "id": 3052238452,
+      "lat": 51.522064,
+      "lon": -0.1188919
+    },
+    {
+      "type": "node",
+      "id": 255747919,
+      "lat": 51.5148236,
+      "lon": -0.1171246
+    },
+    {
+      "type": "node",
+      "id": 255747933,
+      "lat": 51.514862,
+      "lon": -0.1172365
+    },
+    {
+      "type": "node",
+      "id": 890375821,
+      "lat": 51.5188018,
+      "lon": -0.1179367
+    },
+    {
+      "type": "node",
+      "id": 890375836,
+      "lat": 51.5188385,
+      "lon": -0.117962
+    },
+    {
+      "type": "node",
+      "id": 3148303226,
+      "lat": 51.5148419,
+      "lon": -0.1172621
+    },
+    {
+      "type": "node",
+      "id": 3148303227,
+      "lat": 51.5148545,
+      "lon": -0.1172174
+    },
+    {
+      "type": "node",
+      "id": 3148303228,
+      "lat": 51.5148426,
+      "lon": -0.1172647
+    },
+    {
+      "type": "node",
+      "id": 3148303229,
+      "lat": 51.5148568,
+      "lon": -0.1172162
+    },
+    {
+      "type": "node",
+      "id": 3148303230,
+      "lat": 51.5148554,
+      "lon": -0.1172579
+    },
+    {
+      "type": "node",
+      "id": 3629525829,
+      "lat": 51.5147719,
+      "lon": -0.1171518
+    },
+    {
+      "type": "node",
+      "id": 3629525830,
+      "lat": 51.5148041,
+      "lon": -0.1172821
+    },
+    {
+      "type": "node",
+      "id": 4216273228,
+      "lat": 51.5188546,
+      "lon": -0.1178983
+    },
+    {
+      "type": "node",
+      "id": 4216274108,
+      "lat": 51.518713,
+      "lon": -0.1178707
+    },
+    {
+      "type": "node",
+      "id": 4216274116,
+      "lat": 51.5187288,
+      "lon": -0.1178092
+    },
+    {
+      "type": "node",
+      "id": 4216274134,
+      "lat": 51.5187545,
+      "lon": -0.1178275
+    },
+    {
+      "type": "node",
+      "id": 1149458635,
+      "lat": 51.52622,
+      "lon": -0.1080326
+    },
+    {
+      "type": "node",
+      "id": 1149458822,
+      "lat": 51.5263091,
+      "lon": -0.1081042
+    },
+    {
+      "type": "node",
+      "id": 1149458928,
+      "lat": 51.5261968,
+      "lon": -0.1080014
+    },
+    {
+      "type": "node",
+      "id": 1149459111,
+      "lat": 51.5262102,
+      "lon": -0.1079749
+    },
+    {
+      "type": "node",
+      "id": 1149459246,
+      "lat": 51.5262829,
+      "lon": -0.1081523
+    },
+    {
+      "type": "node",
+      "id": 1149459362,
+      "lat": 51.5262076,
+      "lon": -0.1080563
+    },
+    {
+      "type": "node",
+      "id": 390924395,
+      "lat": 51.5379349,
+      "lon": -0.1416277
+    },
+    {
+      "type": "node",
+      "id": 4495364312,
+      "lat": 51.5378701,
+      "lon": -0.1415713
+    },
+    {
+      "type": "node",
+      "id": 4495364318,
+      "lat": 51.537888,
+      "lon": -0.1415178
+    },
+    {
+      "type": "node",
+      "id": 4495364328,
+      "lat": 51.5379526,
+      "lon": -0.1415742
+    },
+    {
+      "type": "node",
+      "id": 4495364331,
+      "lat": 51.5380153,
+      "lon": -0.1411358
+    },
+    {
+      "type": "node",
+      "id": 4495364333,
+      "lat": 51.5380345,
+      "lon": -0.1411492
+    },
+    {
+      "type": "node",
+      "id": 4495364338,
+      "lat": 51.5380766,
+      "lon": -0.1410268
+    },
+    {
+      "type": "node",
+      "id": 4495364341,
+      "lat": 51.5381212,
+      "lon": -0.1410642
+    },
+    {
+      "type": "node",
+      "id": 2951562088,
+      "lat": 51.5471235,
+      "lon": -0.1416852
+    },
+    {
+      "type": "node",
+      "id": 2951562089,
+      "lat": 51.5471274,
+      "lon": -0.1418383
+    },
+    {
+      "type": "node",
+      "id": 2951562090,
+      "lat": 51.5472227,
+      "lon": -0.1416484
+    },
+    {
+      "type": "node",
+      "id": 2951562091,
+      "lat": 51.5472282,
+      "lon": -0.1418013
+    },
+    {
+      "type": "node",
+      "id": 427570998,
+      "lat": 51.5311394,
+      "lon": -0.1211104
+    },
+    {
+      "type": "node",
+      "id": 3584602392,
+      "lat": 51.5311429,
+      "lon": -0.121227
+    },
+    {
+      "type": "node",
+      "id": 3584602893,
+      "lat": 51.5311891,
+      "lon": -0.1211021
+    },
+    {
+      "type": "node",
+      "id": 3584602894,
+      "lat": 51.5312019,
+      "lon": -0.1214332
+    },
+    {
+      "type": "node",
+      "id": 3586790752,
+      "lat": 51.5311497,
+      "lon": -0.1214376
+    },
+    {
+      "type": "node",
+      "id": 1145288793,
+      "lat": 51.5303284,
+      "lon": -0.1059703
+    },
+    {
+      "type": "node",
+      "id": 1145288794,
+      "lat": 51.5303565,
+      "lon": -0.1059843
+    },
+    {
+      "type": "node",
+      "id": 1750077596,
+      "lat": 51.5303161,
+      "lon": -0.1060399
+    },
+    {
+      "type": "node",
+      "id": 1750077597,
+      "lat": 51.5303772,
+      "lon": -0.1060693
+    },
+    {
+      "type": "node",
+      "id": 1750077599,
+      "lat": 51.5303901,
+      "lon": -0.1060018
+    },
+    {
+      "type": "node",
+      "id": 1687075788,
+      "lat": 51.5559444,
+      "lon": -0.1774677
+    },
+    {
+      "type": "node",
+      "id": 2094002547,
+      "lat": 51.5557175,
+      "lon": -0.1777999
+    },
+    {
+      "type": "node",
+      "id": 2094002550,
+      "lat": 51.5557285,
+      "lon": -0.1778583
+    },
+    {
+      "type": "node",
+      "id": 2094002552,
+      "lat": 51.5557342,
+      "lon": -0.1777624
+    },
+    {
+      "type": "node",
+      "id": 2094002553,
+      "lat": 51.5557346,
+      "lon": -0.1778996
+    },
+    {
+      "type": "node",
+      "id": 2094002554,
+      "lat": 51.5557415,
+      "lon": -0.17783
+    },
+    {
+      "type": "node",
+      "id": 2094002556,
+      "lat": 51.5557436,
+      "lon": -0.1778793
+    },
+    {
+      "type": "node",
+      "id": 2094002562,
+      "lat": 51.5557758,
+      "lon": -0.177809
+    },
+    {
+      "type": "node",
+      "id": 2094002573,
+      "lat": 51.5558289,
+      "lon": -0.1779442
+    },
+    {
+      "type": "node",
+      "id": 2094002584,
+      "lat": 51.5558854,
+      "lon": -0.1775872
+    },
+    {
+      "type": "node",
+      "id": 2094002592,
+      "lat": 51.555948,
+      "lon": -0.177706
+    },
+    {
+      "type": "node",
+      "id": 2094002607,
+      "lat": 51.5560137,
+      "lon": -0.1775879
+    },
+    {
+      "type": "node",
+      "id": 2094002761,
+      "lat": 51.5566001,
+      "lon": -0.178709
+    },
+    {
+      "type": "node",
+      "id": 2094002763,
+      "lat": 51.5566109,
+      "lon": -0.1788479
+    },
+    {
+      "type": "node",
+      "id": 2094002764,
+      "lat": 51.5566522,
+      "lon": -0.1786968
+    },
+    {
+      "type": "node",
+      "id": 2094002765,
+      "lat": 51.5566591,
+      "lon": -0.1788366
+    },
+    {
+      "type": "node",
+      "id": 2096222278,
+      "lat": 51.5559813,
+      "lon": -0.1775317
+    },
+    {
+      "type": "node",
+      "id": 2096222316,
+      "lat": 51.5566132,
+      "lon": -0.1787059
+    },
+    {
+      "type": "node",
+      "id": 815702422,
+      "lat": 51.5554598,
+      "lon": -0.1665858
+    },
+    {
+      "type": "node",
+      "id": 815702446,
+      "lat": 51.5553989,
+      "lon": -0.1665361
+    },
+    {
+      "type": "node",
+      "id": 815702498,
+      "lat": 51.555395,
+      "lon": -0.1668445
+    },
+    {
+      "type": "node",
+      "id": 815702523,
+      "lat": 51.5553299,
+      "lon": -0.1667822
+    },
+    {
+      "type": "node",
+      "id": 4565979095,
+      "lat": 51.5702222,
+      "lon": -0.1463002
+    },
+    {
+      "type": "node",
+      "id": 4565979096,
+      "lat": 51.5703006,
+      "lon": -0.1462498
+    },
+    {
+      "type": "node",
+      "id": 4565979097,
+      "lat": 51.570311,
+      "lon": -0.1462931
+    },
+    {
+      "type": "node",
+      "id": 4565979098,
+      "lat": 51.5702543,
+      "lon": -0.1464473
+    },
+    {
+      "type": "node",
+      "id": 847744467,
+      "lat": 51.5681051,
+      "lon": -0.1095796
+    },
+    {
+      "type": "node",
+      "id": 847744515,
+      "lat": 51.5681461,
+      "lon": -0.1094009
+    },
+    {
+      "type": "node",
+      "id": 847744649,
+      "lat": 51.5680657,
+      "lon": -0.1095143
+    },
+    {
+      "type": "node",
+      "id": 847744803,
+      "lat": 51.5681812,
+      "lon": -0.1094573
+    },
+    {
+      "type": "node",
+      "id": 1695218728,
+      "lat": 51.5251284,
+      "lon": -0.0816042
+    },
+    {
+      "type": "node",
+      "id": 1695218730,
+      "lat": 51.5251686,
+      "lon": -0.0816869
+    },
+    {
+      "type": "node",
+      "id": 1695218732,
+      "lat": 51.5252188,
+      "lon": -0.0814848
+    },
+    {
+      "type": "node",
+      "id": 1695218734,
+      "lat": 51.5252596,
+      "lon": -0.0815622
+    },
+    {
+      "type": "node",
+      "id": 1758880723,
+      "lat": 51.5252381,
+      "lon": -0.0815215
+    },
+    {
+      "type": "node",
+      "id": 1758951525,
+      "lat": 51.5262047,
+      "lon": -0.07975
+    },
+    {
+      "type": "node",
+      "id": 1758951528,
+      "lat": 51.5262074,
+      "lon": -0.0796784
+    },
+    {
+      "type": "node",
+      "id": 1758951538,
+      "lat": 51.5262718,
+      "lon": -0.079755
+    },
+    {
+      "type": "node",
+      "id": 1758951543,
+      "lat": 51.5262776,
+      "lon": -0.0796883
+    },
+    {
+      "type": "node",
+      "id": 1781389305,
+      "lat": 51.526263,
+      "lon": -0.0796862
+    },
+    {
+      "type": "node",
+      "id": 2697983975,
+      "lat": 51.5161673,
+      "lon": -0.0707424
+    },
+    {
+      "type": "node",
+      "id": 2697983977,
+      "lat": 51.5161807,
+      "lon": -0.0706914
+    },
+    {
+      "type": "node",
+      "id": 2697983979,
+      "lat": 51.5161715,
+      "lon": -0.0706499
+    },
+    {
+      "type": "node",
+      "id": 2697983981,
+      "lat": 51.5160955,
+      "lon": -0.0705895
+    },
+    {
+      "type": "node",
+      "id": 2697983984,
+      "lat": 51.5160738,
+      "lon": -0.0706539
+    },
+    {
+      "type": "node",
+      "id": 2697983986,
+      "lat": 51.5161297,
+      "lon": -0.0706995
+    },
+    {
+      "type": "node",
+      "id": 2697983988,
+      "lat": 51.5161331,
+      "lon": -0.0707142
+    },
+    {
+      "type": "node",
+      "id": 2729973062,
+      "lat": 51.5179,
+      "lon": -0.0709608
+    },
+    {
+      "type": "node",
+      "id": 2729973063,
+      "lat": 51.5179229,
+      "lon": -0.0708403
+    },
+    {
+      "type": "node",
+      "id": 2729973066,
+      "lat": 51.5179499,
+      "lon": -0.070989
+    },
+    {
+      "type": "node",
+      "id": 2729973067,
+      "lat": 51.517974,
+      "lon": -0.0708714
+    },
+    {
+      "type": "node",
+      "id": 2765658435,
+      "lat": 51.5223072,
+      "lon": -0.0714357
+    },
+    {
+      "type": "node",
+      "id": 2765658438,
+      "lat": 51.522353,
+      "lon": -0.0714279
+    },
+    {
+      "type": "node",
+      "id": 2765658465,
+      "lat": 51.5223181,
+      "lon": -0.0715686
+    },
+    {
+      "type": "node",
+      "id": 2765658466,
+      "lat": 51.5223625,
+      "lon": -0.0715603
+    },
+    {
+      "type": "node",
+      "id": 3703049217,
+      "lat": 51.5357579,
+      "lon": -0.061988
+    },
+    {
+      "type": "node",
+      "id": 3703049221,
+      "lat": 51.5357865,
+      "lon": -0.0620905
+    },
+    {
+      "type": "node",
+      "id": 3703049222,
+      "lat": 51.5357939,
+      "lon": -0.0619565
+    },
+    {
+      "type": "node",
+      "id": 3703050426,
+      "lat": 51.5358216,
+      "lon": -0.0620524
+    },
+    {
+      "type": "node",
+      "id": 4564334053,
+      "lat": 51.5414551,
+      "lon": -0.07579
+    },
+    {
+      "type": "node",
+      "id": 4564334054,
+      "lat": 51.5414714,
+      "lon": -0.0760206
+    },
+    {
+      "type": "node",
+      "id": 4564334055,
+      "lat": 51.5414183,
+      "lon": -0.0760303
+    },
+    {
+      "type": "node",
+      "id": 4564334056,
+      "lat": 51.541402,
+      "lon": -0.0757997
+    },
+    {
+      "type": "node",
+      "id": 984078964,
+      "lat": 51.5527708,
+      "lon": -0.0525846
+    },
+    {
+      "type": "node",
+      "id": 984078967,
+      "lat": 51.5527293,
+      "lon": -0.0527562
+    },
+    {
+      "type": "node",
+      "id": 984078970,
+      "lat": 51.5526928,
+      "lon": -0.0527364
+    },
+    {
+      "type": "node",
+      "id": 984078973,
+      "lat": 51.5527324,
+      "lon": -0.0525601
+    },
+    {
+      "type": "node",
+      "id": 1407394736,
+      "lat": 51.5527234,
+      "lon": -0.0526004
+    },
+    {
+      "type": "node",
+      "id": 1440165665,
+      "lat": 51.5427876,
+      "lon": -0.0050804
+    },
+    {
+      "type": "node",
+      "id": 1440962607,
+      "lat": 51.5426812,
+      "lon": -0.004778
+    },
+    {
+      "type": "node",
+      "id": 1453583138,
+      "lat": 51.5426791,
+      "lon": -0.0050957
+    },
+    {
+      "type": "node",
+      "id": 1453583148,
+      "lat": 51.5429888,
+      "lon": -0.0046019
+    },
+    {
+      "type": "node",
+      "id": 3579328529,
+      "lat": 51.5427781,
+      "lon": -0.0048085
+    },
+    {
+      "type": "node",
+      "id": 5745651167,
+      "lat": 51.5427467,
+      "lon": -0.0051725
+    },
+    {
+      "type": "node",
+      "id": 5828020142,
+      "lat": 51.5427825,
+      "lon": -0.005115
+    },
+    {
+      "type": "node",
+      "id": 2133006202,
+      "lat": 51.5791932,
+      "lon": -0.0222215
+    },
+    {
+      "type": "node",
+      "id": 2133006203,
+      "lat": 51.5792149,
+      "lon": -0.0221606
+    },
+    {
+      "type": "node",
+      "id": 2133006207,
+      "lat": 51.5792697,
+      "lon": -0.0222495
+    },
+    {
+      "type": "node",
+      "id": 2133006208,
+      "lat": 51.5792654,
+      "lon": -0.0222672
+    },
+    {
+      "type": "node",
+      "id": 2133006209,
+      "lat": 51.5793151,
+      "lon": -0.0222783
+    },
+    {
+      "type": "node",
+      "id": 2133006210,
+      "lat": 51.5793266,
+      "lon": -0.0222313
+    },
+    {
+      "type": "node",
+      "id": 1556911440,
+      "lat": 51.5759115,
+      "lon": -0.0145108
+    },
+    {
+      "type": "node",
+      "id": 4496468294,
+      "lat": 51.5758296,
+      "lon": -0.014677
+    },
+    {
+      "type": "node",
+      "id": 4496468296,
+      "lat": 51.5758477,
+      "lon": -0.0147192
+    },
+    {
+      "type": "node",
+      "id": 4496468303,
+      "lat": 51.5758657,
+      "lon": -0.0146184
+    },
+    {
+      "type": "node",
+      "id": 4496468306,
+      "lat": 51.5759381,
+      "lon": -0.0145728
+    },
+    {
+      "type": "node",
+      "id": 4496468310,
+      "lat": 51.5758572,
+      "lon": -0.0145987
+    },
+    {
+      "type": "node",
+      "id": 1715820603,
+      "lat": 51.5845119,
+      "lon": -0.0201092
+    },
+    {
+      "type": "node",
+      "id": 1715820605,
+      "lat": 51.5845248,
+      "lon": -0.0200368
+    },
+    {
+      "type": "node",
+      "id": 1715820612,
+      "lat": 51.5845557,
+      "lon": -0.0200511
+    },
+    {
+      "type": "node",
+      "id": 1715820647,
+      "lat": 51.5846825,
+      "lon": -0.0201878
+    },
+    {
+      "type": "node",
+      "id": 1715820649,
+      "lat": 51.5846954,
+      "lon": -0.0201154
+    },
+    {
+      "type": "node",
+      "id": 2158614781,
+      "lat": 51.587789,
+      "lon": -0.0040707
+    },
+    {
+      "type": "node",
+      "id": 2158614783,
+      "lat": 51.5878121,
+      "lon": -0.0039558
+    },
+    {
+      "type": "node",
+      "id": 2158614791,
+      "lat": 51.5878365,
+      "lon": -0.0040825
+    },
+    {
+      "type": "node",
+      "id": 2158614793,
+      "lat": 51.5878342,
+      "lon": -0.0040942
+    },
+    {
+      "type": "node",
+      "id": 2158614797,
+      "lat": 51.5878573,
+      "lon": -0.0039793
+    },
+    {
+      "type": "node",
+      "id": 2161709414,
+      "lat": 51.5888807,
+      "lon": -0.0041561
+    },
+    {
+      "type": "node",
+      "id": 2161709416,
+      "lat": 51.588919,
+      "lon": -0.0038469
+    },
+    {
+      "type": "node",
+      "id": 2161709417,
+      "lat": 51.5889252,
+      "lon": -0.0041637
+    },
+    {
+      "type": "node",
+      "id": 2161709419,
+      "lat": 51.5889619,
+      "lon": -0.0038672
+    },
+    {
+      "type": "node",
+      "id": 4273237939,
+      "lat": 51.4260812,
+      "lon": 0.1023394
+    },
+    {
+      "type": "node",
+      "id": 4273237940,
+      "lat": 51.4260853,
+      "lon": 0.1022656
+    },
+    {
+      "type": "node",
+      "id": 5178815185,
+      "lat": 51.4262335,
+      "lon": 0.1022864
+    },
+    {
+      "type": "node",
+      "id": 5178815187,
+      "lat": 51.426283,
+      "lon": 0.102379
+    },
+    {
+      "type": "node",
+      "id": 3761729352,
+      "lat": 51.4671219,
+      "lon": 0.0072442
+    },
+    {
+      "type": "node",
+      "id": 5661375607,
+      "lat": 51.4670301,
+      "lon": 0.0071275
+    },
+    {
+      "type": "node",
+      "id": 5661375609,
+      "lat": 51.4670493,
+      "lon": 0.0070904
+    },
+    {
+      "type": "node",
+      "id": 5661375610,
+      "lat": 51.4671527,
+      "lon": 0.0071909
+    },
+    {
+      "type": "node",
+      "id": 6005580615,
+      "lat": 51.467065,
+      "lon": 0.0070822
+    },
+    {
+      "type": "node",
+      "id": 6005580616,
+      "lat": 51.467057,
+      "lon": 0.0070834
+    },
+    {
+      "type": "node",
+      "id": 6005580617,
+      "lat": 51.4670734,
+      "lon": 0.0070884
+    },
+    {
+      "type": "node",
+      "id": 4256724764,
+      "lat": 51.5303948,
+      "lon": 0.0375525
+    },
+    {
+      "type": "node",
+      "id": 4256724765,
+      "lat": 51.5303042,
+      "lon": 0.0375538
+    },
+    {
+      "type": "node",
+      "id": 4340248772,
+      "lat": 51.5302996,
+      "lon": 0.037405
+    },
+    {
+      "type": "node",
+      "id": 4340248778,
+      "lat": 51.5303894,
+      "lon": 0.0374034
+    },
+    {
+      "type": "node",
+      "id": 3232129356,
+      "lat": 51.5548187,
+      "lon": 0.2489555
+    },
+    {
+      "type": "node",
+      "id": 3232137261,
+      "lat": 51.5548684,
+      "lon": 0.2489834
+    },
+    {
+      "type": "node",
+      "id": 3232137262,
+      "lat": 51.5548686,
+      "lon": 0.2487187
+    },
+    {
+      "type": "node",
+      "id": 3232137264,
+      "lat": 51.5549211,
+      "lon": 0.2487484
+    }
+  ]
+}
