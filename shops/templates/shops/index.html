@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Bootstrap Themes lovingly provided by Bootswatch https://bootswatch.com/ https://www.bootstrapcdn.com/bootswatch/ -->
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.2.1/simplex/bootstrap.min.css">
+  
+    <title>Nearby Shops</title>
+    
+  </head>
+
+<body>
+    
+    <h1>Nearby Shops</h1>
+    
+    {% if shops %}
+    <ul>
+    {% for shop in shops %}
+      <li>
+        {{ shop.name }}: {{ shop.distance }}
+      </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+</body>
+</html>
+   
